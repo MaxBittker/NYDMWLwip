@@ -1,7 +1,12 @@
-# Design Build Firms/Energy Service Providers (ESPs)
-***
+
+<div class="text-center titleText">
+<h1> Design Build Firms/Energy Service Providers (ESPs)</h1>
+</div>
+
+<hr>
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-2"></div>
+<div class="col-sm-5">
 <ul>
 <li> Partner with us and become a NY Doing More with Less ESP</li>
 <li> Leverage a market-transformational, turnkey-contracting approach</li>
@@ -9,7 +14,7 @@
 <li> Increase customer trust and satisfaction</li>
 </ul>
 </div>
-<div class="col-sm-6">
+<div class="col-sm-5">
 <ul>
 <li> Leverage innovative funding</li>
 <li> Deliver energy efficiency as a service</li>
@@ -19,12 +24,14 @@
 </div>
 </div>
 
+
+
 ## NY Doing More with Less Energy Service Agreements (ESAs)
 
 The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal structure that enables our ESP partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.  
 ***
 
-<img src="assets\NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets\NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
 
 ***
 
