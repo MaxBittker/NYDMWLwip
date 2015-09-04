@@ -1,5 +1,9 @@
-# Minimize your energy costs while maximizing building performance and the value of your facility
-***
+<div class="text-center titleText">
+<h1>Minimize your energy costs while maximizing <br> building performance and the value of your facility</h1>
+</div>
+
+
+ ***
 
 ## The NY Doing More with Less Energy Service Agreement (ESA)
 
@@ -16,6 +20,8 @@ Working with a partnering DB/ESP of your choosing, we develop, finance, own, ope
 Under a NY Doing More with Less ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
  
 Your energy costs are always lower than they would be without participation!
+
+***
 
 ## Pay less for greater building performance
 
@@ -39,7 +45,8 @@ Your energy costs are always lower than they would be without participation!
 
 - Benefit from outsourcing your energy system/infrastructure – a smarter, systematic, and more comprehensive approach to maximizing real estate value
 
-# The NYDMwL Deal Structure
+***
+
 <img src="assets\NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
 
 ***

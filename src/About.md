@@ -7,7 +7,8 @@ Focused on building a more innovative business ecosystem for energy efficiency t
 
 Working in partnership with ESPs, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 ***
-<img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo"> 
+<!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
+<img src="assets\RIT_GIS.png" height="80 px" alt="RIT GIS Logo"> 
 
 ## Rochester Institute of Technology's Golisano Institute for Sustainability
 Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit of the Rochester Institute of Technology with the following mission: to undertake world-class education and research missions in sustainability. GIS brings to our partnership world-class authority and an intangible element of trust, invaluable as the NY Doing More with Less enterprise takes on the behavioral challenges confronting efforts to transform the marketplace. GIS academic and research programs focus on sustainable production, sustainable energy, sustainable mobility, and ecologically friendly information technology systems.
@@ -41,18 +42,20 @@ NY Green Bank is a state-sponsored, specialized financial entity working in part
 - Leveraging private sector capital to support and expand clean energy financing markets;
 - Animating and growing capital markets reducing the need for government support; and
 - Motivating faster and more extensive deployment of clean energy assets, contributing to economic development, greater energy choices, reduced environmental impacts and more green energy advantages for every public dollar spent.
+
 <h4>
 
-[greenbank.ny.gov](http://greenbank.ny.gov/)
+[www.greenbank.ny.gov](http://greenbank.ny.gov/)
 
 
 </h4>
+
 ***
 
 <img src="assets\RENEW Logo.jpg" height="100 px" alt="RENEW Logo"> 
 
 
-##RENEW Energy Partners LLC
+## RENEW Energy Partners LLC
 RENEW Energy Partners offers energy efficiency project development and energy finance solutions to commercial, industrial and institutional enterprises who want to modernize their inefficient buildings, reduce energy bills, and improve conditions for tenants and employees.  RENEW’s full-service, turnkey process reduces owner risk, increases property value, and ensures energy savings are met. RENEW is led by a world class management and advisory team with extraordinary expertise in deep energy retrofit analysis and optimization, energy efficiency programs, project management and implementation, and energy finance solutions.
 
 

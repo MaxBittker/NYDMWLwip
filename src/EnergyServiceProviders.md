@@ -40,38 +40,38 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
 
 <h2> The Deal Structure </h2>
 <ul>
-<li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”)<sup>(2)</sup> delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved, a rate *less* than the Customer has been paying for energy </li>
-<li> An Engineering, Procurement and Construction **(EPC)** Contract between ESP and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li>
-<li> An Operations & Maintenance **(O&M)** Contract between O&M Partner and RENEW -- provides periodic maintenance of RENEW's owned assets over the term of the ESA </li>
+<li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>(2)</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved, a rate *less* than the Customer has been paying for energy </li><br>
+<li> An Engineering, Procurement and Construction **(EPC)** Contract between ESP and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li><br>
+<li> An Operations & Maintenance **(O&M)** Contract between O&M Partner and RENEW -- provides periodic maintenance of RENEW's owned assets over the term of the ESA </li><br>
 </ul>
 
-
+<small>
 (1) *RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.*
 <br>
 (2) *Amory Lovins coined the term "Negawatt" to refer to a theoretical unit of energy saved through increased energy efficiency.*
+</small>
 
 </div>
 <div class="col-sm-4">
 
 <h2> Trusted Third Parties </h2>
 <ul>
-<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank and RIT's Golisano Institute for Sustainability (GIS)</li>
-<li> GIS is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li>
-<li> In a manner beneficial to all value chain participants, expected and actual MWh and MMBTtu savings, greenhouse gas impacts, and various financial and other performance metrics are independently assessed and tracked by trusted experts </li>
-<li> Energy Service Providers benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li>
+<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank and RIT's Golisano Institute for Sustainability (GIS)</li><br>
+<li> GIS is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li><br>
+<li> In a manner beneficial to all value chain participants, expected and actual MWh and MMBTtu savings, greenhouse gas impacts, and various financial and other performance metrics are independently assessed and tracked by trusted experts </li><br>
+<li> Energy Service Providers benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li><br>
 </ul>
 </div>
 <div class="col-sm-4">
 
 <h2> Advantages </h2>
 <ul>
-<li> Help grow your energy efficiency retrofit business via an innovative funding mechanism/contractual tool for third-party financing and energy-service delivery </li>
-<li> A 21st Century approach to contracting that aligns your customers' best interests with yours, rewarding Design-Build best practicies and the implementation of superior energy efficiency technologies</li>
-<li> Turns energy efficiency into a resource that can be produced, measured, and sold -- with unprecedented levels of transparency, standardization, and trust infused throughout the energy efficiency value chain  </li>
-<li> Highly attractive service offering, especially to customers with multiple projects with different scopes across a portfolio of buildings</li>
-<li>  Benefit from a smarter contracting model that opens the door to capital while providing trusted third-party tools and services to help your customers assess assumptions, benefit from best practices, mitigate risk, and move forward with retrofit and upgrade projects that favorably impact their Triple Bottom Line</li>
+<li> Help grow your energy efficiency retrofit business via an innovative funding mechanism/contractual tool for third-party financing and energy-service delivery </li><br>
+<li> A 21st Century approach to contracting that aligns your customers' best interests with yours, rewarding Design-Build best practicies and the implementation of superior energy efficiency technologies</li><br>
+<li> Turns energy efficiency into a resource that can be produced, measured, and sold -- with unprecedented levels of transparency, standardization, and trust infused throughout the energy efficiency value chain  </li><br>
+<li> Highly attractive service offering, especially to customers with multiple projects with different scopes across a portfolio of buildings</li><br>
+<li>  Benefit from a smarter contracting model that opens the door to capital while providing trusted third-party tools and services to help your customers assess assumptions, benefit from best practices, mitigate risk, and move forward with retrofit and upgrade projects that favorably impact their Triple Bottom Line</li><br>
 
-***
-Register and Download the NY Doing More with Less Tool Kit 
+
 
 </div>
