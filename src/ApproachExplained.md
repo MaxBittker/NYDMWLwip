@@ -6,7 +6,7 @@
 
 <br>
 
-# NY Doing More with Less(TM) ESA Approach Explained 
+# NY Doing More with Less™ ESA Approach Explained 
 
 ## The NY Doing More with Less (RENEW*) Energy Service Agreement (ESA) Model:
 * Can be understood as an innovative version of the highly successful, market-transformational Power Purchase Agreement (PPA) approach

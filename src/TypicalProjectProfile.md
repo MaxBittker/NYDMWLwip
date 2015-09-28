@@ -6,7 +6,7 @@
 <br>
 
 
-# NY Doing More with Less(TM) (RENEW(1))Typical Project Profile
+# NY Doing More with Less™ (RENEW*)Typical Project Profile
 ## NY Doing More with Less projects can include a broad range of energy efficiency and clean energy infrastructure measures: 
 * Lighting Upgrades
 * Heating, Ventilation and Air Conditioning
@@ -40,6 +40,6 @@
 
 <i>
 
-1) RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
+* RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
 
 </i>

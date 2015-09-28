@@ -14,7 +14,7 @@
             <div class="container">
 <img src="assets/GBDMwL Logo.png" height="100 px" alt="NYDMwL Logo"> 
 
-# About NY Doing More with Less(TM)
+# About NY Doing More with Less™
 
 NY Doing More with Less is a joint venture between RENEW Energy Partners LLC and Green Bank Partners, with specialty finance from Advanced Energy Capital and essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
 
@@ -34,18 +34,6 @@ Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing
 
 </h4>
 
-***
-<!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
-<img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo"> 
-
-## Rochester Institute of Technology's Golisano Institute for Sustainability
-Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit of the Rochester Institute of Technology with the following mission: to undertake world-class education and research missions in sustainability. GIS brings to our partnership world-class authority and an intangible element of trust, invaluable as the NY Doing More with Less enterprise takes on the behavioral challenges confronting efforts to transform the marketplace. GIS academic and research programs focus on sustainable production, sustainable energy, sustainable mobility, and ecologically friendly information technology systems.
-
-<h4>
-
-[www.rit.edu/gis/](http://www.rit.edu/gis/)
-
-</h4>
 
 ***
 <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo"> 
@@ -93,6 +81,18 @@ RENEW Energy Partners offers energy efficiency project development and energy fi
 ](www.renewenergypartners.com
 )
 
+***
+<!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
+<img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo"> 
+
+## Rochester Institute of Technology's Golisano Institute for Sustainability
+Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit of the Rochester Institute of Technology with the following mission: to undertake world-class education and research missions in sustainability. GIS brings to our partnership world-class authority and an intangible element of trust, invaluable as the NY Doing More with Less enterprise takes on the behavioral challenges confronting efforts to transform the marketplace. GIS academic and research programs focus on sustainable production, sustainable energy, sustainable mobility, and ecologically friendly information technology systems.
+
+<h4>
+
+[www.rit.edu/gis/](http://www.rit.edu/gis/)
+
+</h4>
 
 </h4>
 

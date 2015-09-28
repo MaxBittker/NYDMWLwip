@@ -5,6 +5,6 @@
 
 <br>
 
-# NY Doing More with Less(TM) Project Example
+# NY Doing More with Less™ Project Example
 image: ![Still to come]
 

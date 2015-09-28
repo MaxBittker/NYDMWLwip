@@ -60,10 +60,14 @@ THEME STYLES
         font-weight: 900;
     }
     h3 {
-        margin-top: 0px;
         color: #1A8612;
+        max-width: 800px;
+        margin: auto;
+        margin-top: 0px;
     }
+    text-align: center;
 }
+
 .blackoverride {
             color: #000  !important;
 }
@@ -398,7 +402,9 @@ header {
         vertical-align: top !important;
     }
     a:link,
-    a:visited {}
+    a:visited {
+        color: @link-color;
+    }
     a:hover,
     a:active {
         text-decoration: none;
@@ -1744,10 +1750,10 @@ footer {
     background: none @gray-darker;
     a {
         &:link,
-        &:visited {}
+        &:visited,
         &:hover,
         &:active {
-            color: @link-hover-color;
+            color: @brand-primary;
             text-decoration: none;
         }
     }

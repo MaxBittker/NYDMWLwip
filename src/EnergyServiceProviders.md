@@ -84,7 +84,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
 <h2> Advantages </h2>
 <ul>
 <li> Help grow your energy efficiency retrofit business via an innovative funding mechanism/contractual tool for third-party financing and energy-service delivery </li><br>
-<li> A 21st Century approach to contracting that aligns your customers' best interests with yours, rewarding Design-Build best practicies and the implementation of superior energy efficiency technologies</li><br>
+<li> A 21st Century approach to contracting that aligns your customers' best interests with yours, rewarding Design-Build best practices and the implementation of superior energy efficiency technologies</li><br>
 <li> Turns energy efficiency into a resource that can be produced, measured, and sold -- with unprecedented levels of transparency, standardization, and trust infused throughout the energy efficiency value chain  </li><br>
 <li> Highly attractive service offering, especially to customers with multiple projects with different scopes across a portfolio of buildings</li><br>
 <li>  Benefit from a smarter contracting model that opens the door to capital while providing trusted third-party tools and services to help your customers assess assumptions, benefit from best practices, mitigate risk, and move forward with retrofit and upgrade projects that favorably impact their Triple Bottom Line</li><br>
@@ -112,13 +112,13 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
                                <figcaption>
-                                    <p>Introduction to the NY Doing More with Less ESA</p>
+                                    <p>Intro to the NY Doing More with Less™ Energy Services Agreement (ESA)</p>
                                     <div class="view_button">View</div>
                                </figcaption>
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">ESA Introduction</a></h3>
+                               <h3><a href="IntrotoESA.html">ESA Introduction</a></h3>
                           </div>
                      </div>
                 </div>
@@ -135,7 +135,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Deal Structure Diagram</a></h3>
+                               <h3><a href="ESADealStructure.html">Deal Structure Diagram</a></h3>
                           </div>
                      </div>
                 </div>
@@ -152,7 +152,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">ESA Value Proposition</a></h3>
+                               <h3><a href="ESAValueProp.html">ESA Value Proposition</a></h3>
                                <!-- <p>artists</p> -->
                           </div>
                      </div>
@@ -170,7 +170,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">ESA Benefits Value Proposition</a></h3>
+                               <h3><a href="ESAbenefitsvalueprop.html">ESA Benefits Value Proposition</a></h3>
                                <!-- <p>people</p> -->
                           </div>
                      </div>
@@ -188,7 +188,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Typical Process</a></h3>
+                               <h3><a href="TypicalProcess.html">Typical Process</a></h3>
                                <!-- <p>travel</p> -->
                           </div>
                      </div>
@@ -206,7 +206,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Projects Covered
+                               <h3><a href="TypicalProjectProfile.html">Projects Covered
 </a></h3>
                                <!-- <p>people</p> -->
                           </div>
@@ -225,7 +225,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Design-Build Evolution</a></h3>
+                               <h3><a href="ModelEvolution.html">Design-Build Evolution</a></h3>
                           </div>
                      </div>
                 </div>
@@ -242,7 +242,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Sample Metrics in Bar Graph
+                               <h3><a href="ProjectExample.html">Sample Metrics in Bar Graph
 </a></h3>
                                <!-- <p>artists</p> -->
                           </div>
@@ -261,7 +261,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">ESA Key Terms and Conditions
+                               <h3><a href="KeyTermsandConditions.html">ESA Key Terms and Conditions
 </a></h3>
                                <!-- <p>travel</p> -->
                           </div>

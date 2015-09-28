@@ -10,7 +10,7 @@ Let us help you and your clients do more with less!
 image: ![JimBittker]
 ## Jim Bittker
 Managing Director / Founder
-NY Doing More with Less(TM)
+NY Doing More with Less™
 
 Full bio...
 

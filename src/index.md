@@ -3,10 +3,10 @@
 <div class="full_page_photo" style="background-image: url(assets/hero.jpg);">
      <div class="container">
           <section class="call_to_action">
-               <h3 class="animated fadeInDown skincolored">Just possibly the coolest economic innovation in the State of New York 
+               <h3 class="animated fadeInDown skincolored"><i>Just possibly the coolest economic innovation in the State of New York </i>
 </h3>
                <br>
-               <h4 class="animated fadeInUp"<i> since the construction of the Erie Canal!</i></h4>
+               <h4 class="animated fadeInUp"><i> since the construction of the Erie Canal!</i></h4>
           </section>
      </div>
 </div>
@@ -20,9 +20,7 @@
 
 <h1> <b>NY</b> Doing More with Less<sup>TM<sup> </h1>
 
-<h3> <i>Building a business ecosystem for energy efficiency via an <br>
-
- innovative funding platform supported by the NY Green Bank </i></h3>
+<h3> <i>Building a business ecosystem for energy efficiency via an innovative funding platform supported by the NY Green Bank </i></h3>
 
 
 
@@ -33,10 +31,10 @@
 	<h2 class="text-center blackoverride"> <b>Design-Build Firms /<br> Energy Service Providers</b> </h2>
 	<a href="EnergyServiceProviders.html" class="text-center"><h3> *Learn More* </h3></a>
 
-<h4>A NY Green Bank-backed flunding platform that helps
+<h4>A NY Green Bank-backed funding platform that helps
  restructure industry boundaries to the benefit of 
  all participants. Better serve and grow the marketplace 
- with an innovative, turnkey energy-efficency-as-a-service
+ with an innovative, turnkey energy-efficiency-as-a-service
  contracting model. </h4>
 
 </div>

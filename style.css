@@ -6570,6 +6570,9 @@ THEME STYLES
   margin: 0px
     padding: 0px;
 }
+.heroText {
+  text-align: center;
+}
 .heroText h1 {
   font-size: 350%;
   font-weight: bold;
@@ -6580,8 +6583,10 @@ THEME STYLES
   font-weight: 900;
 }
 .heroText h3 {
-  margin-top: 0px;
   color: #1A8612;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 0px;
 }
 .blackoverride {
   color: #000  !important;
@@ -6896,6 +6901,10 @@ header .container {
 }
 #social_media_wrapper a i {
   vertical-align: top !important;
+}
+#social_media_wrapper a:link,
+#social_media_wrapper a:visited {
+  color: #0b0080;
 }
 #social_media_wrapper a:hover,
 #social_media_wrapper a:active {
@@ -8194,9 +8203,11 @@ footer {
   background: url(images/backgrounds/wild_oliva_dark.png);
   background: none #222222;
 }
+footer a:link,
+footer a:visited,
 footer a:hover,
 footer a:active {
-  color: #040034;
+  color: #02779e;
   text-decoration: none;
 }
 .twitter_feed_wrapper {

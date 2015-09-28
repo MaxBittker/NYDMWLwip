@@ -5,7 +5,7 @@
 <br>
 
 
-# NY Doing More with Less(TM) (RENEW*) ESA: Key Terms and Conditions
+# NY Doing More with Less™ (RENEW*) ESA: Key Terms and Conditions
 ## General
 * An Energy Service Agreement (ESA) is a service contract (and not a lease or other debt obligation) so it has no impact on the building owner’s credit rating or balance sheet
 * The building owner’s obligations are limited to:
@@ -55,7 +55,7 @@
 
 <i>
 
-1) RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.
+* RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.
 
 
 </i>

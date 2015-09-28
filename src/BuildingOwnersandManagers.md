@@ -92,7 +92,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">ESA Introduction</a></h3>
+                               <h3><a href="IntrotoESA.html">ESA Introduction</a></h3>
                           </div>
                      </div>
                 </div>
@@ -109,7 +109,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Diagram of the Model
+                               <h3><a href="ApproachExplained.html">Diagram of the Model
 </a></h3>
                                <!-- <p>travel</p> -->
                           </div>
@@ -128,7 +128,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Typical Process</a></h3>
+                               <h3><a href="TypicalProcess.html">Typical Process</a></h3>
                                <!-- <p>travel</p> -->
                           </div>
                      </div>
@@ -146,7 +146,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Projects Covered
+                               <h3><a href="TypicalProjectProfile.html">Projects Covered
 </a></h3>
                                <!-- <p>people</p> -->
                           </div>
@@ -165,7 +165,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Design-Build Evolution</a></h3>
+                               <h3><a href="ModelEvolution.html">Design-Build Evolution</a></h3>
                           </div>
                      </div>
                 </div>
@@ -182,7 +182,7 @@ Your energy costs are always lower than they would be without participation!
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="portfolio_item.html">Sample Metrics in Bar Graph
+                               <h3><a href="ProjectExample.html">Sample Metrics in Bar Graph
 </a></h3>
                                <!-- <p>artists</p> -->
                           </div>
