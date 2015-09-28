@@ -1,4 +1,20 @@
 
+
+<div class="full_page_photo" style="background-image: url(assets/hero.jpg);">
+     <div class="container">
+          <section class="call_to_action">
+               <h3 class="animated fadeInDown skincolored">Just possibly the coolest economic innovation in the State of New York 
+</h3>
+               <br>
+               <h4 class="animated fadeInUp"<i> since the construction of the Erie Canal!</i></h4>
+          </section>
+     </div>
+</div>
+
+<div class="main">
+        <section>
+            <div class="container">
+
 <div class="text-center heroText">
 
 

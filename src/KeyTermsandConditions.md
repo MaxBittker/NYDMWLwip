@@ -1,4 +1,10 @@
-imnage: ![NYDMwL Logo]
+<div class="main">
+        <section>
+            <div class="container">
+
+<br>
+
+
 # NY Doing More with Less(TM) (RENEW*) ESA: Key Terms and Conditions
 ## General
 * An Energy Service Agreement (ESA) is a service contract (and not a lease or other debt obligation) so it has no impact on the building owner’s credit rating or balance sheet
@@ -47,7 +53,9 @@ imnage: ![NYDMwL Logo]
 * In addition to undertaking the construction of the project and (in some cases) guaranteeing the savings, the EPC partner is obligated to insure the assets during construction
 * Depending on the financial strength and experience of the EPC partner (DB/ESP Partner), a project completion guaranty and/or credit enhancement of the savings guaranty (e.g., an energy savings bond) may be required in order to support the expected project cash flows
 
-[Footnote:]
+<i>
+
 1) RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.
 
 
+</i>

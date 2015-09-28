@@ -1,3 +1,19 @@
+<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
+     <div class="container">
+          <section class="call_to_action">
+               <h3 class="animated fadeInDown skincolored"><i> “Markets move more quickly.  Markets bring more innovation.” </i>
+</h3>
+               <br>
+               <h4 class="animated fadeInUp"> -- Richard Kauffman, New York State’s Energy Czar</h4>
+          </section>
+     </div>
+</div>
+
+<div class="main">
+        <section>
+            <div class="container">
+
+
 
 <div class="text-center titleText">
 <h1> Design Build Firms/Energy Service Providers (ESPs)</h1>
@@ -20,6 +36,7 @@
 <li> Deliver energy efficiency as a service</li>
 <li> Benefit from trusted third-party support</li>
 <li> Grow your business and profitability</li>
+<li> Do more with less</li>
 </ul>
 </div>
 </div>
@@ -75,3 +92,181 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
 
 
 </div>
+</div>
+
+
+<section class="hgroup">
+          <div class="container">
+               <h1>Portfolio</h1>
+               <h2>This could be a showcase of your work! We are using the Isotope Jquery plugin to filter results. 
+                    </h2>
+          </div>
+     </section>
+ <section class="portfolio_strict">
+      <div class="container">
+           <div class="row isotope_portfolio_container">
+                <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="IntrotoESA.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t5.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Introduction to the NY Doing More with Less ESA</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">ESA Introduction</a></h3>
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_people col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ESADealStructure.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/p4.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Diagram of the NY Doing More with Less deal structure</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Deal Structure Diagram</a></h3>
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_artists col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ESAValueProp.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/a3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Table listing the ESA value proposition for customers</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">ESA Value Proposition</a></h3>
+                               <!-- <p>artists</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_people col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ESAbenefitsvalueprop.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/p3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Table listing additional benefits of the ESA value proposition</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">ESA Benefits Value Proposition</a></h3>
+                               <!-- <p>people</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="TypicalProcess.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>The four phases and twelve steps associated with the typical participation process</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Typical Process</a></h3>
+                               <!-- <p>travel</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_people col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="TypicalProjectProfile.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/p1.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Broad range of energy efficiency and clean energy infrastructure measures</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Projects Covered
+</a></h3>
+                               <!-- <p>people</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_poetic col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ModelEvolution.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/b3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                   <p>Evolution of design-build retrofit contracting</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Design-Build Evolution</a></h3>
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_artists col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ProjectExample.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/a4.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Sample bar graph showing cash-flow-positive project savings</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Sample Metrics in Bar Graph
+</a></h3>
+                               <!-- <p>artists</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="KeyTermsandConditions.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t4.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Listing of the key terms and conditions associated with participation</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">ESA Key Terms and Conditions
+</a></h3>
+                               <!-- <p>travel</p> -->
+                          </div>
+                     </div>
+                </div>
+           </div>
+      </div>
+ </section>

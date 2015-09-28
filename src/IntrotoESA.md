@@ -1,4 +1,8 @@
-image: ![NYDMwL Logo]
+<div class="main">
+        <section>
+            <div class="container">
+
+
 # Introduction to the NY Doing More with Less(TM) Energy Services Agreement (ESA)
 
 The NY Doing More with Less Energy Services Agreement (ESA) is a full-service, turnkey solution that enables building owners to implement facility energy efficiency retrofits and clean energy improvements without the need for upfront capital, and without adding debt to the balance sheet. 
@@ -19,5 +23,9 @@ The NY Doing More with Less Energy Services Agreement (ESA) is a full-service, t
 - Subject to review, NY Doing More with Less (RENEW) and its ESP Partnering Contractor can work with the building owner’s preferred maintenance contractor (if not also the project Partnering Contractor)
 - NY Doing More with Less (RENEW) and its ESP Partnering Contractor work with the owner to identify additional savings opportunities over time, which easily can be added to an existing ESA
 
-[Footnote]
+
+<i>
+
 1) RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.
+
+</i>

@@ -1,3 +1,20 @@
+<div class="full_page_photo" style="background-image: url(assets/hero3.jpg);">
+     <div class="container">
+          <section class="call_to_action">
+              <!--  <h3 class="animated fadeInDown skincolored"><i> “@@@@@@@@@@@@@@@@@” </i>
+</h3>
+               <br>
+               <h4 class="animated fadeInUp"> ~~~~~~~~~~~~~~~~~~~~~</h4> -->
+          </section>
+     </div>
+</div>
+
+
+<div class="main">
+        <section>
+            <div class="container">
+
+
 <div class="text-center titleText">
 <h1>Minimize your energy costs while maximizing <br> building performance and the value of your facility</h1>
 </div>
@@ -25,7 +42,7 @@ Your energy costs are always lower than they would be without participation!
 
 ## Pay less for greater building performance
 
-<img src="assets\Utility Bill before and after.png" class="img-responsive center-block" alt="Utility Bill before and after"> 
+<img src="assets/Utility Bill before and after.png" class="img-responsive center-block" alt="Utility Bill before and after"> 
 
 ## Why this approach may work for you
 
@@ -47,6 +64,130 @@ Your energy costs are always lower than they would be without participation!
 
 ***
 
-<img src="assets\NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets/NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
 
 ***
+
+
+<section class="hgroup">
+          <div class="container">
+               <h1>More Information:</h1>
+               <!-- <h2>This could be a showcase of your work! We are using the Isotope Jquery plugin to filter results.  -->
+                    <!-- </h2> -->
+          </div>
+     </section>
+ <section class="portfolio_strict">
+      <div class="container">
+           <div class="row isotope_portfolio_container">
+                <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="IntrotoESA.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t5.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Introduction to the NY Doing More with Less ESA</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">ESA Introduction</a></h3>
+                          </div>
+                     </div>
+                </div>
+                    <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ApproachExplained.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t4.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>The ESA approach explained with a diagram of the deal structure</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Diagram of the Model
+</a></h3>
+                               <!-- <p>travel</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_travel col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="TypicalProcess.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/t3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>The four phases and twelve steps associated with the typical participation process</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Typical Process</a></h3>
+                               <!-- <p>travel</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_people col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="TypicalProjectProfile.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/p1.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Broad range of energy efficiency and clean energy infrastructure measures</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Projects Covered
+</a></h3>
+                               <!-- <p>people</p> -->
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_poetic col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ModelEvolution.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/b3.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Evolution of design-build retrofit contracting</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Design-Build Evolution</a></h3>
+                          </div>
+                     </div>
+                </div>
+                <div class="cat_artists col-xs-12 col-md-4">
+                     <div class="portfolio_item"> <a href="ProjectExample.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                          <figure style="background-image:url(images/portfolio/a4.jpg)">
+                               <svg viewBox="0 0 180 320" preserveAspectRatio="none">
+                                    <path d="M 180,0 0,0 0,0 180,0 z"/>
+                               </svg>
+                               <figcaption>
+                                    <p>Sample bar graph showing cash-flow-positive project savings</p>
+                                    <div class="view_button">View</div>
+                               </figcaption>
+                          </figure>
+                          </a>
+                          <div class="portfolio_description">
+                               <h3><a href="portfolio_item.html">Sample Metrics in Bar Graph
+</a></h3>
+                               <!-- <p>artists</p> -->
+                          </div>
+                     </div>
+                </div>
+           </div>
+      </div>
+ </section>

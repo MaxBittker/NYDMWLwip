@@ -1,4 +1,11 @@
-image: ![NYDMwL Logo]
+<div class="main">
+        <section>
+            <div class="container">
+
+
+
+<br>
+
 # NY Doing More with Less(TM) ESA Approach Explained 
 
 ## The NY Doing More with Less (RENEW*) Energy Service Agreement (ESA) Model:
@@ -12,4 +19,5 @@ image: ![NYDMwL Logo]
 
 * Building owners have an option to purchase the energy efficiency improvements at the end of the ESA contract for the then-current Fair Market Value
  ***
-image: ![NYDMwL ESA Deal Structure Diagram]
+
+<img src="assets/NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="NYDMwL ESA Deal Structure Diagram"> 

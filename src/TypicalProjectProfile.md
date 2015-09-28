@@ -1,4 +1,11 @@
-image: ![NYDMwL Logo]
+<div class="main">
+        <section>
+            <div class="container">
+
+<br>
+<br>
+
+
 # NY Doing More with Less(TM) (RENEW(1))Typical Project Profile
 ## NY Doing More with Less projects can include a broad range of energy efficiency and clean energy infrastructure measures: 
 * Lighting Upgrades
@@ -31,6 +38,8 @@ image: ![NYDMwL Logo]
 * Has an average simple payback of between 2 years and 5 years; longer paybacks can be addressed with longer deal terms
 * May include multiple measures under a single ESA or may be for one measure, with the flexibility to add more later
 
-[Footnote]
+<i>
+
 1) RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
 
+</i>
