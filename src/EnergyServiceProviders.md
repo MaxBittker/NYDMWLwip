@@ -48,7 +48,7 @@
 The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal structure that enables our ESP partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.  
 ***
 
-<img src="assets\NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
 
 ***
 
@@ -97,9 +97,9 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
 
 <section class="hgroup">
           <div class="container">
-               <h1>Portfolio</h1>
-               <h2>This could be a showcase of your work! We are using the Isotope Jquery plugin to filter results. 
-                    </h2>
+               <h1>More Information:</h1>
+               <!-- <h2>This could be a showcase of your work! We are using the Isotope Jquery plugin to filter results.  -->
+                    <!-- </h2> -->
           </div>
      </section>
  <section class="portfolio_strict">
