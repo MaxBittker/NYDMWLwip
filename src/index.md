@@ -42,7 +42,7 @@
 <div class="col-sm-1"></div>
 <div class="col-sm-5">
 	<h2 class="text-center blackoverride"> <b>Building Owners <br> and Managers </b></h2>
-	<a href="BuildingOwnersAndManagers.html" class="text-center"><h3> *Learn More* </h3></a>
+	<a href="BuildingOwnersandManagers.html" class="text-center"><h3> *Learn More* </h3></a>
 <h4> Better understand, *trust*, and successfully
  leverage innovation in financing to generate
  positive cash flow from day one of a building

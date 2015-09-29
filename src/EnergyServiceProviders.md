@@ -140,7 +140,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                      </div>
                 </div>
                 <div class="cat_artists col-xs-12 col-md-4">
-                     <div class="portfolio_item"> <a href="ESAValueProp.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
+                     <div class="portfolio_item"> <a href="ESAvalueprop.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
                           <figure style="background-image:url(images/portfolio/a3.jpg)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
