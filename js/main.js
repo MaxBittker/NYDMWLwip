@@ -11,4 +11,9 @@ var url = window.location;
     return this.href == url;
 }).parent().addClass('active');
 
+
 });
+
+function goBack() {
+    window.history.back();
+}

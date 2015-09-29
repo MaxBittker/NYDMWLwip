@@ -21,7 +21,7 @@ Have a question about any aspect of the NY Doing More with Less program?  Please
 
 ### Managing Director
 
-<h4> <strong><strong>NY</strong></strong> Doing More with Less<sup>TM</sup> </h4>
+<h4> NY Doing More with Less<sup>TM</sup> </h4>
 
 #### P: 585.943.7604
 

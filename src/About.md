@@ -81,6 +81,8 @@ RENEW Energy Partners offers energy efficiency project development and energy fi
 ](www.renewenergypartners.com
 )
 
+</h4>
+
 ***
 <!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
 <img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo"> 
@@ -94,40 +96,71 @@ Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit
 
 </h4>
 
-</h4>
 
   <section class="team_members">
           <div class="container">
-               <h2 class="section_header fancy centered">Meet our Team... <small>x years of experience!</small></h2>
+               <h2 class="section_header fancy centered">Meet our Team</h2>
                <div class="row">
                     <div class="col-sm-6 col-md-4">
                          <div class="team_member">
                               <figure style="background-image: url(assets/JimBittker.png)"><img src="assets/JimBittker.png" alt="1a"></figure>
                               <h5>Jim Bittker</h5>
-                              <small>Web-Developer / Founder</small>
+                              <small>Managing Director / Founder<br>NY Doing More with Less™</small>
                               <hr>
-                              <div class="team_social"> <a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/leonartgr"><i class="fa fa-twitter"></i></a> <a href="#pinterest"><i class="fa fa-linkedin"></i></a> <a href="https://github.com/PlethoraThemes"><i class="fa fa-github-alt"></i></a> </div>
-                              <p class="short_bio">In hac habitasse platea dictumst. Suspendisse non tellus ligula. Morbi molestie feugiat tortor a hendrerit.</p>
+                              <p class="short_bio">
+Jim is the Founder and Managing Director of the NY Doing More with Less Program and the point of contact for all inquires.  
+
+<br>
+
+Prior to founding NY Doing More with Less, Jim was an Outreach Specialist for NYSERDA and a hands-on, energy efficiency solutions provider, working in New York State and commuting to California where he operated at the center of California's energy efficiency revolution.  Jim was a principal at TruBrite Energy Management, a company that delivered turnkey lighting retrofits to more than 10,000 commercial and industrial, governmental, and multifamily residential facilities.  Customers included Federal Express, Walgreens, Iron Mountain, Lockheed Martin, Target, Diageo, Bank of America, Transwestern, US Bank, Wells Fargo, BRE Properties, Radio Shack and GameStop, as well as numerous municipalities and more than 40 California school districts.  In recent years, Jim has provided hundreds of AIA CEU-credited NYSERDA presentations on energy efficiency to architectural, engineering, construction, and real estate professionals.
+
+<br>
+
+An experienced entrepreneur, Jim founded PubWeb and served as the first marketing, sales, and business development executive at iUniverse, an innovative company that in 2012 was acquired by Pearson for $116 million. Jim also worked as an editor at McGraw-Hill Publishing Company, where economics Nobel-prize-winning author Paul Samuelson was among his authors.  Jim also worked with Samuelson's economics 101 textbook co-author, William Nordhaus, today's leading scholar on the economics of climate change.</p>
                          </div>
                     </div>
                     <div class="col-sm-6 col-md-4">
                          <div class="team_member">
                               <figure style="background-image: url(assets/charlie-lord.jpg)"><img src="assets/charlie-lord.jpg" alt="2a"></figure>
                               <h5>Charlie Lord</h5>
-                              <small>Designer / Founder</small>
+                              <small>Principal<br>RENEW Energy Partners LLC</small>
                               <hr>
-                              <div class="team_social"> <a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/leonartgr"><i class="fa fa-twitter"></i></a> <a href="#pinterest"><i class="fa fa-linkedin"></i></a> <a href="https://github.com/PlethoraThemes"><i class="fa fa-github-alt"></i></a> </div>
-                              <p class="short_bio">In hac habitasse platea dictumst. Suspendisse non tellus ligula. Morbi molestie feugiat tortor a hendrerit.</p>
+                              <p class="short_bio">  
+
+Charlie is a principal at RENEW Energy Partners LLC, the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program. Prior to RENEW, Charlie was at C-Quest Capital, LLC (CQC) a carbon finance business dedicated to originating and developing high-quality emission reduction projects that provide superior returns for investors and energy services to low-income communities in Africa, India and Latin America. Charlie helped launch CQC’s Global Cook Stoves Program.
+
+<br>
+
+Prior to C-Quest, Charlie was a principal at SCRC, an investment manager focusing on sustainable infrastructure (energy, waste and water), with an emphasis on emerging markets. Charlie also founded and scaled two social ventures, including Alternatives for Community & Environment (ACE), the largest environmental justice center in the Northeast, where he served as Co-Director until 1998 and on the Board until 2004. In 1998, Charlie founded the Urban Ecology Institute at Boston College, and served as its Executive Director until 2008. Charlie taught in the Environmental Studies Program at Boston College until 2010.
+
+<br>
+
+He has published numerous articles on environmental law, environmental justice and environmental policy. After graduating from Yale University and the University of Virginia School of Law, Charlie clerked on the United States Court of Appeals for the District of Columbia Circuit. Charlie is a recipient of the Echoing Green Fellowship and Barr Foundation Fellowship and was Editor-in-Chief of the Virginia Law Review.
+</p>
                          </div>
                     </div>
                     <div class="col-sm-6 col-md-4">
                          <div class="team_member">
                               <figure style="background-image: url(assets/stephen-pritchard.jpg)"><img src="assets/stephen-pritchard.jpg" alt="3a"></figure>
                               <h5>Stephen Pritchard</h5>
-                              <small>Photographer / Model</small>
+                              <small>Principal<br>RENEW Energy Partners LLC</small>
                               <hr>
-                              <div class="team_social"> <a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/leonartgr"><i class="fa fa-twitter"></i></a> <a href="#pinterest"><i class="fa fa-linkedin"></i></a> <a href="https://github.com/PlethoraThemes"><i class="fa fa-github-alt"></i></a> </div>
-                              <p class="short_bio">In hac habitasse platea dictumst. Suspendisse non tellus ligula. Morbi molestie feugiat tortor a hendrerit.</p>
+                              <p class="short_bio">
+
+                              Steve is a principal at RENEW Energy Partners LLC, the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program. Steve was President/COO for I-Group, LLC, a private family equity company with a portfolio of diverse businesses including a $1.8 billion real estate and infrastructure development joint venture with the Bahamian government.
+
+<br>
+
+Prior to I-Group, he was the executive leader of the emergency “Stem to Stern” Safety Review of the Boston Metropolitan Highway System project (“Big Dig”) mandated by law following a July 2007 tunnel ceiling collapse, reporting directly to Governor Mitt Romney of Massachusetts.  Steve was tapped for that post while serving in the Governor’s cabinet as Secretary of Environmental Affairs.
+
+<br>
+
+Before going into state government, he was the Vice President for Project Development for Infrastructure Development Company LLC and Vice President of Operations for Intercontinental Energy Corporation, leading both operations and project development for a portfolio of independent power projects specializing in clean, efficient combined cycle natural gas fired power production facilities.  Steve also previously worked as a Senior Engineer, Plant Engineering Supervisor and Operations General Supervisor for Constellation Energy.
+
+<br>
+
+He holds a BS in mechanical engineering from Northeastern University and an MBA in Finance from Loyola University in Maryland, and is a registered Professional Engineer.
+</p>
                          </div>
                     </div>
                     <!-- <div class="col-sm-6 col-md-3">

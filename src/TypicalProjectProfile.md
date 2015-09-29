@@ -43,3 +43,9 @@
 * RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
 
 </i>
+
+
+<button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">
+  <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
+ <h4>Go Back</h4>
+</button>
