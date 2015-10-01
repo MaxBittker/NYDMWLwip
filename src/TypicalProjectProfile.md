@@ -38,10 +38,7 @@
 * Has an average simple payback of between 2 years and 5 years; longer paybacks can be addressed with longer deal terms
 * May include multiple measures under a single ESA or may be for one measure, with the flexibility to add more later
 
-<i>
-
-* RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
-
+<i> * RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
 </i>
 
 

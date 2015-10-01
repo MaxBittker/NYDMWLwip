@@ -16,13 +16,14 @@
 
 # About NY Doing More with Less™
 
-NY Doing More with Less is a joint venture between RENEW Energy Partners LLC and Green Bank Partners, with specialty finance from Advanced Energy Capital and essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
+NY Doing More with Less is a joint venture between RENEW Energy Partners LLC and Green Bank Partners, with essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
 
 
 Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (ESPs) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
 
 Working in partnership with ESPs, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 ***
+<!-- 
 <img src="assets/Advanced Energy Capital logo.png" height="100 px" alt="advanced energy capital logo"> 
 
 Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing affordable and innovative financing solutions to the Renewable Energy, Energy Storage and Energy Efficiency industries, as well as the Retail Energy Provider industry. AEC’s investments include capital placement geared towards platform and development companies as well as project finance.
@@ -36,7 +37,8 @@ Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing
 
 
 ***
-<img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo"> 
+ -->
+ <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo"> 
 
 
 ## Green Bank Partners
@@ -126,7 +128,6 @@ An experienced entrepreneur, Jim founded PubWeb and served as the first marketin
                               <small>Principal<br>RENEW Energy Partners LLC</small>
                               <hr>
                               <p class="short_bio">  
-
 Charlie is a principal at RENEW Energy Partners LLC, the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program. Prior to RENEW, Charlie was at C-Quest Capital, LLC (CQC) a carbon finance business dedicated to originating and developing high-quality emission reduction projects that provide superior returns for investors and energy services to low-income communities in Africa, India and Latin America. Charlie helped launch CQC’s Global Cook Stoves Program.
 
 <br>
