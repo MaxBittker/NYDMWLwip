@@ -1,10 +1,9 @@
 <div class="full_page_photo" style="background-image: url(assets/hero3.jpg);">
      <div class="container">
           <section class="call_to_action">
-              <!--  <h3 class="animated fadeInDown skincolored"><i> “@@@@@@@@@@@@@@@@@” </i>
+               <h3 class="animated fadeInDown skincolored"><i>
+Minimize your energy costs while maximizing building performance and the value of your facility</i>
 </h3>
-               <br>
-               <h4 class="animated fadeInUp"> ~~~~~~~~~~~~~~~~~~~~~</h4> -->
           </section>
      </div>
 </div>
@@ -15,12 +14,6 @@
             <div class="container">
 
 
-<div class="text-center titleText">
-<h1>Minimize your energy costs while maximizing <br> building performance and the value of your facility</h1>
-</div>
-
-
- ***
 
 ## The NY Doing More with Less Energy Service Agreement (ESA)
 
