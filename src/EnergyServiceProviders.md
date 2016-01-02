@@ -152,7 +152,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="ESAvalueProp.html">ESA Value Proposition</a></h3>
+                               <h3><a href="ESAvalueprop.html">ESA Value Proposition</a></h3>
                                <!-- <p>artists</p> -->
                           </div>
                      </div>
