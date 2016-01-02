@@ -26,12 +26,14 @@
 
 </div>
 <br>
+<br>
+
 <div class="row">
 <div class="col-sm-6">
-	<h2 class="text-center blackoverride"> <b>Design-Build Firms /<br> Energy Service Providers</b> </h2>
+	<h2 class="text-center blackoverride"> <b>E-Firms</b> </h2>
 	<a href="EnergyServiceProviders.html" class="text-center"><h3> *Learn More* </h3></a>
 
-<h4>A NY Green Bank-backed funding platform that helps
+<h4>A NY Green Bank-supported funding platform that helps
  restructure industry boundaries to the benefit of 
  all participants. Better serve and grow the marketplace 
  with an innovative, turnkey energy-efficiency-as-a-service
@@ -41,10 +43,10 @@
 
 <div class="col-sm-1"></div>
 <div class="col-sm-5">
-	<h2 class="text-center blackoverride"> <b>Building Owners <br> and Managers </b></h2>
+	<h2 class="text-center blackoverride"> <b>Building Owners </b> </h2>
 	<a href="BuildingOwnersandManagers.html" class="text-center"><h3> *Learn More* </h3></a>
 <h4> Better understand, *trust*, and successfully
- leverage innovation in financing to generate
+ leverage an innovatiove funding mechanism/deal structure to generate
  positive cash flow from day one of a building
  upgrade or energy infrastructure project.</h4>
 

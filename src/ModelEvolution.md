@@ -9,7 +9,7 @@
 # NY Doing More with Less™ : A 21st Century Solution
 
 
-<img src="assets/NYDMwL Model Evolution.png" class="img-responsive center-block" alt="NYDMwL Model Evolution"> 
+<img src="assets/NYDMwL Model Evolution.png" class="img-responsive center-block" alt="NYDMwL Model Evolution" style="min-width: 70%;"> 
 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">

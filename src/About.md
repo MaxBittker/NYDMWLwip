@@ -16,10 +16,10 @@
 
 # About NY Doing More with Less™
 
-NY Doing More with Less is a joint venture between RENEW Energy Partners LLC and Green Bank Partners, with essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
+NY Doing More with Less is a joint venture between Green Bank Partners, RENEW Energy Partners and Sustainable Real Estate Solutions, with essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
 
 
-Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (ESPs) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
+Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (E-FIRMS) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
 
 Working in partnership with ESPs, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 ***
@@ -97,6 +97,24 @@ Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit
 [www.rit.edu/gis/](http://www.rit.edu/gis/)
 
 </h4>
+
+***
+<!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
+<img src="assets/Logo_SRS_Dec10.jpg" height="80 px" alt="SRS Logo"> 
+
+## Sustainable Real Estate Solutions, Inc. (SRS)
+
+Sustainable Real Estate Solutions (SRS) provides industry best practice methodology for building energy efficiency investment underwriting. SRS delivers Sustainable Real Estate Manager® a cloud-based, software-as-a-service energy finance and technical underwriting platform supporting NY Doing More with Less to underwrite energy efficiency and renewable energy projects that yield compelling investment returns.
+
+<h4>
+
+[srmnetwork.com](http://srmnetwork.com)
+
+</h4>
+
+
+
+
 
 
   <section class="team_members">
