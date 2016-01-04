@@ -19,7 +19,7 @@
 
 ### NY Doing More with Less ESA structure accommodates the implementation of a number of measures in one project, with longer payback measures and shorter payback measures blended to create a project that maximizes capital upgrades and savings to the building owner.
  
-## NY Doing More with Less works with E-FIRMS and their clients in a range of sectors: 
+## NY Doing More with Less works with E-Firms and their clients in a range of sectors: 
 * Commercial, Industrial and Institutional
 * Hospitality and Resorts
 * Healthcare and Hospitals

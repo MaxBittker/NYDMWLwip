@@ -19,9 +19,9 @@
 NY Doing More with Less is a joint venture between Green Bank Partners, RENEW Energy Partners and Sustainable Real Estate Solutions, with essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
 
 
-Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (E-FIRMS) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
+Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (E-Firms) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
 
-Working in partnership with ESPs, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
+Working in partnership with E-Firms, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 ***
 <!-- 
 <img src="assets/Advanced Energy Capital logo.png" height="100 px" alt="advanced energy capital logo"> 

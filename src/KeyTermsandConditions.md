@@ -15,7 +15,7 @@
 * There is no payment obligation if the project does not reduce energy costs!
 * Building owners benefit from a one-year optimization period to confirm the savings
 * Savings are confirmed through a trusted monitoring and verification process
-* RENEW signs an Engineering, Procurement and Construction (EPC) contract with the Design-Build/Energy Service Provider (E-FIRM) to guarantee savings
+* RENEW signs an Engineering, Procurement and Construction (EPC) contract with the Design-Build/Energy Service Provider (E-Firm) to guarantee savings
 
 ## Project Ownership and End of Term Disposition
 * RENEW owns the project and all environmental attributes associated with the project:
@@ -30,7 +30,7 @@
 * The rate for each Energy Services Unit (ESU) is less than the customer has been paying for energy
 * RENEW and the building owner agree in the ESA on the owner’s baseline (pre-retrofit) energy use and on the forecasted savings
 * During the first year, the building owner makes ESA payments based on the forecast
-* At the end of the first year, the EPC partner (also known as the E-FIRM Partner) provides a report based on the actual performance of the project (using agreed-upon industry standard protocols) and the volume of ESUs is adjusted according to actual project performance
+* At the end of the first year, the EPC partner (also known as the E-Firm Partner) provides a report based on the actual performance of the project (using agreed-upon industry standard protocols) and the volume of ESUs is adjusted according to actual project performance
 * Projects benefit from unprecedented levels of accuracy and transparency in energy performance assessment, leveraging world-class, industry-defining measurement best practices and proven technologies
 * The ESA payments are fixed for the remainder of the term on the basis of that actual project performance
 * If the project delivers savings in excess of the forecasted amounts, RENEW and the building owner receive a portion of the “upside”
@@ -50,9 +50,9 @@
 * Building owners are required to provide periodic financial reports as a means for monitoring the project investment
 * ESA terms typically range from 6 to 10 years, although the term can be extended out as long as 20 years
 
-## Engineering, Procurement and Construction Contracts (EPCs) with Design-Build/Energy Service Provider (E-FIRMS)
+## Engineering, Procurement and Construction Contracts (EPCs) with Design-Build/Energy Service Provider (E-Firms)
 * In addition to undertaking the construction of the project and (in some cases) guaranteeing the savings, the EPC partner is obligated to insure the assets during construction
-* Depending on the financial strength and experience of the EPC partner (E-FIRM Partner), a project completion guaranty and/or credit enhancement of the savings guaranty (e.g., an energy savings bond) may be required in order to support the expected project cash flows
+* Depending on the financial strength and experience of the EPC partner (E-Firm Partner), a project completion guaranty and/or credit enhancement of the savings guaranty (e.g., an energy savings bond) may be required in order to support the expected project cash flows
 
 <i>
 
