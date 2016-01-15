@@ -20,7 +20,7 @@
 * Building owners have an option to purchase the energy efficiency improvements at the end of the ESA contract for the then-current Fair Market Value
  ***
 
-<img src="assets/NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="NYDMwL ESA Deal Structure Diagram"> 
+<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="NYDMwL ESA Deal Structure Diagram"> 
 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">

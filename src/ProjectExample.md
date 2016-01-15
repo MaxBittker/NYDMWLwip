@@ -6,7 +6,7 @@
 <br>
 
 # NY Doing More with Less™ Project Example
-image: ![Still to come]
+<img src="assets/ESA Sample Bar Graph.PNG" class="img-responsive center-block" alt="NYDMwL Model Evolution" style="min-width: 70%;"> 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">
   <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>

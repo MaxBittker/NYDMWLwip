@@ -1,10 +1,11 @@
 <div class="full_page_photo" style="background-image: url(assets/hero3.jpg);">
      <div class="container">
           <section class="call_to_action">
-              <!--  <h3 class="animated fadeInDown skincolored"><i> “@@@@@@@@@@@@@@@@@” </i>
+               <h3 class="animated fadeInDown skincolored"><i>
+Minimize your energy costs while maximizing building performance </i>
 </h3>
-               <br>
-               <h4 class="animated fadeInUp"> ~~~~~~~~~~~~~~~~~~~~~</h4> -->
+ <br>
+               <h4 class="animated fadeInUp"><i>and the value of your facility!</i></h4>
           </section>
      </div>
 </div>
@@ -15,24 +16,18 @@
             <div class="container">
 
 
-<div class="text-center titleText">
-<h1>Minimize your energy costs while maximizing <br> building performance and the value of your facility</h1>
-</div>
-
-
- ***
 
 ## The NY Doing More with Less Energy Service Agreement (ESA)
 
 The NY Doing More with Less ESA approach is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
 
-Work with a NY Doing More with Less Design-Build Firm/Energy Service Provider (DB/ESP) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
+Work with a NY Doing More with Less Design-Build Firm/Energy Service Provider (E-Firm) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 
 Benefit from a substantially lower utility bill -- *doing more with less!*
 
 ## How it works
 
-Working with a partnering DB/ESP of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your DB/ESP’s best interests with yours, encouraging the use of superior technologies and best practices in building performance.
+Working with a partnering E-Firm of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your E-Firm’s best interests with yours, encouraging the use of superior technologies and best practices in building performance.
 
 Under a NY Doing More with Less ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
  
@@ -42,7 +37,8 @@ Your energy costs are always lower than they would be without participation!
 
 ## Pay less for greater building performance
 
-<img src="assets/Utility Bill before and after.png" class="img-responsive center-block" alt="Utility Bill before and after"> 
+<img src="assets/Utility Bill before and after.png" class="img-responsive" alt="Utility Bill before and after" style="max-width: 35%; margin-right: 60px; display: inline-block"> 
+<img src="assets/ESA Paid-from-Savings Model.PNG" class="img-responsive" alt="ESA Paid-from-Savings Model" style="max-width: 35%; display: inline-block"> 
 
 ## Why this approach may work for you
 
@@ -58,13 +54,16 @@ Your energy costs are always lower than they would be without participation!
 
 - Ongoing building performance optimization, maintenance, and repair
 
+- Trusted, industry-best-practice methodology for building energy efficiency measurement and verification
+
 - Trusted third-party involvement by the NY Green Bank and Rochester Institute of Technology’s Golisano Institute of Sustainability
 
 - Benefit from outsourcing your energy system/infrastructure – a smarter, systematic, and more comprehensive approach to maximizing real estate value
 
 ***
 
-<img src="assets/NYDMwL ESA Deal Structure Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+
 
 ***
 
@@ -81,7 +80,7 @@ Your energy costs are always lower than they would be without participation!
            <div class="row isotope_portfolio_container">
                 <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="IntrotoESA.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t5.jpg)">
+                          <figure style="background-image:url(images/portfolio/10.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -98,7 +97,7 @@ Your energy costs are always lower than they would be without participation!
                 </div>
                     <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ApproachExplained.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t4.jpg)">
+                          <figure style="background-image:url(images/portfolio/11.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -117,7 +116,7 @@ Your energy costs are always lower than they would be without participation!
                 </div>
                 <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="TypicalProcess.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t3.jpg)">
+                          <figure style="background-image:url(images/portfolio/12.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -135,7 +134,7 @@ Your energy costs are always lower than they would be without participation!
                 </div>
                 <div class="cat_people col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="TypicalProjectProfile.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/p1.jpg)">
+                          <figure style="background-image:url(images/portfolio/13.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -154,7 +153,7 @@ Your energy costs are always lower than they would be without participation!
                 </div>
                 <div class="cat_poetic col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ModelEvolution.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/b3.jpg)">
+                          <figure style="background-image:url(images/portfolio/14.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -171,7 +170,7 @@ Your energy costs are always lower than they would be without participation!
                 </div>
                 <div class="cat_artists col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ProjectExample.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/a4.jpg)">
+                          <figure style="background-image:url(images/portfolio/15.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>

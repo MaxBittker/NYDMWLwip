@@ -34,7 +34,5 @@ Have a question about any aspect of the NY Doing More with Less program?  Please
 
 #### Rochester, NY 14625
 
-#### P: 585.943.7604
 
-#### E: jim.bittker@gmail.com
 

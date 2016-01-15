@@ -16,7 +16,7 @@
 
 
 <div class="text-center titleText">
-<h1> Design Build Firms/Energy Service Providers (ESPs)</h1>
+<h1> Design Build Firms/Energy Service Providers (E-Firms)</h1>
 </div>
 
 <hr>
@@ -24,7 +24,7 @@
 <div class="col-sm-2"></div>
 <div class="col-sm-5">
 <ul>
-<li> Partner with us and become a NY Doing More with Less ESP</li>
+<li> Partner with us and become a NY Doing More with Less E-Firm</li>
 <li> Leverage a market-transformational, turnkey-contracting approach</li>
 <li> Align your customers' best interests with yours</li>
 <li> Increase customer trust and satisfaction</li>
@@ -45,7 +45,7 @@
 
 ## NY Doing More with Less Energy Service Agreements (ESAs)
 
-The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal structure that enables our ESP partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.  
+The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.  
 ***
 
 <img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
@@ -58,7 +58,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
 <h2> The Deal Structure </h2>
 <ul>
 <li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>(2)</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved, a rate *less* than the Customer has been paying for energy </li><br>
-<li> An Engineering, Procurement and Construction **(EPC)** Contract between ESP and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li><br>
+<li> An Engineering, Procurement and Construction **(EPC)** Contract between E-Firm and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li><br>
 <li> An Operations & Maintenance **(O&M)** Contract between O&M Partner and RENEW -- provides periodic maintenance of RENEW's owned assets over the term of the ESA </li><br>
 </ul>
 
@@ -107,7 +107,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
            <div class="row isotope_portfolio_container">
                 <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="IntrotoESA.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t5.jpg)">
+                          <figure style="background-image:url(images/portfolio/1.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -124,7 +124,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_people col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ESADealStructure.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/p4.jpg)">
+                          <figure style="background-image:url(images/portfolio/2.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -141,7 +141,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_artists col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ESAvalueprop.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/a3.jpg)">
+                          <figure style="background-image:url(images/portfolio/3.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -152,14 +152,14 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="ESAValueProp.html">ESA Value Proposition</a></h3>
+                               <h3><a href="ESAvalueprop.html">ESA Value Proposition</a></h3>
                                <!-- <p>artists</p> -->
                           </div>
                      </div>
                 </div>
                 <div class="cat_people col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ESAbenefitsvalueprop.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/p3.jpg)">
+                          <figure style="background-image:url(images/portfolio/4.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -177,7 +177,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="TypicalProcess.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t3.jpg)">
+                          <figure style="background-image:url(images/portfolio/5.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -195,7 +195,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_people col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="TypicalProjectProfile.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/p1.jpg)">
+                          <figure style="background-image:url(images/portfolio/6.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -214,7 +214,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_poetic col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ModelEvolution.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/b3.jpg)">
+                          <figure style="background-image:url(images/portfolio/7.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -231,7 +231,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_artists col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="ProjectExample.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/a4.jpg)">
+                          <figure style="background-image:url(images/portfolio/8.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
@@ -250,7 +250,7 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported deal st
                 </div>
                 <div class="cat_travel col-xs-12 col-md-4">
                      <div class="portfolio_item"> <a href="KeyTermsandConditions.html" data-path-hover="M 180,190 0,158 0,0 180,0 z">
-                          <figure style="background-image:url(images/portfolio/t4.jpg)">
+                          <figure style="background-image:url(images/portfolio/9.png)">
                                <svg viewBox="0 0 180 320" preserveAspectRatio="none">
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>

@@ -19,7 +19,7 @@
 
 ### NY Doing More with Less ESA structure accommodates the implementation of a number of measures in one project, with longer payback measures and shorter payback measures blended to create a project that maximizes capital upgrades and savings to the building owner.
  
-## NY Doing More with Less works with Design-Build Firms/Energy Service Providers and their clients in a range of sectors: 
+## NY Doing More with Less works with E-Firms and their clients in a range of sectors: 
 * Commercial, Industrial and Institutional
 * Hospitality and Resorts
 * Healthcare and Hospitals
@@ -38,10 +38,7 @@
 * Has an average simple payback of between 2 years and 5 years; longer paybacks can be addressed with longer deal terms
 * May include multiple measures under a single ESA or may be for one measure, with the flexibility to add more later
 
-<i>
-
-* RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
-
+<i> * RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
 </i>
 
 
