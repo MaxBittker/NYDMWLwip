@@ -25,7 +25,7 @@
 <div class="col-sm-5">
 <ul>
 <li> Partner with us and become a NY Doing More with Less E-Firm</li>
-<li> Leverage a market-transformational, turnkey-contracting approach</li>
+<li> Leverage a market-transformational, turnkey-contracting approach: Energy Efficiency as a Service (EEaaS™)</li>
 <li> Align your customers' best interests with yours</li>
 <li> Increase customer trust and satisfaction</li>
 </ul>
@@ -45,10 +45,10 @@
 
 ## NY Doing More with Less Energy Service Agreements (ESAs)
 
-The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.  
+The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.
 ***
 
-<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png">
 
 ***
 
@@ -57,9 +57,10 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding
 
 <h2> The Deal Structure </h2>
 <ul>
-<li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>(2)</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved, a rate *less* than the Customer has been paying for energy </li><br>
+<li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>(2)</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved or Energy Savings Unit (ESU), a rate *less* than the Customer has been paying for energy </li><br>
 <li> An Engineering, Procurement and Construction **(EPC)** Contract between E-Firm and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li><br>
 <li> An Operations & Maintenance **(O&M)** Contract between O&M Partner and RENEW -- provides periodic maintenance of RENEW's owned assets over the term of the ESA </li><br>
+<li> At the end of the first year, the EPC partner (also known as E-Firm Partner) provides a report based on the actual performance of the project (using agreed-upon industry standard protocols) and the volume of ESUs is adjusted according to actual project performance</li><br>
 </ul>
 
 <small>
@@ -73,7 +74,8 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding
 
 <h2> Trusted Third Parties </h2>
 <ul>
-<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank and RIT's Golisano Institute for Sustainability (GIS)</li><br>
+<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank, Sustainable Real Estate Solutions and RIT's Golisano Institute for Sustainability (GIS)</li><br>
+<li>Sustainable Real Estate Solutions is providing industry-best- practice methodology and tools for standardized qualification, quantification and trusted measurement of energy efficiency measures. </li><br>
 <li> GIS is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li><br>
 <li> In a manner beneficial to all value chain participants, expected and actual MWh and MMBTtu savings, greenhouse gas impacts, and various financial and other performance metrics are independently assessed and tracked by trusted experts </li><br>
 <li> Energy Service Providers benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li><br>
@@ -112,13 +114,13 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
                                <figcaption>
-                                    <p>Intro to the NY Doing More with Less™ Energy Services Agreement (ESA)</p>
+                                    <p>Intro to the RENEW ESA</p>
                                     <div class="view_button">View</div>
                                </figcaption>
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="IntrotoESA.html">ESA Introduction</a></h3>
+                               <h3><a href="IntrotoESA.html">RENEW ESA Introduction</a></h3>
                           </div>
                      </div>
                 </div>

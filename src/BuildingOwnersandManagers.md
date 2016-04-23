@@ -30,15 +30,15 @@ Benefit from a substantially lower utility bill -- *doing more with less!*
 Working with a partnering E-Firm of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your E-Firm’s best interests with yours, encouraging the use of superior technologies and best practices in building performance.
 
 Under a NY Doing More with Less ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
- 
+
 Your energy costs are always lower than they would be without participation!
 
 ***
 
 ## Pay less for greater building performance
 
-<img src="assets/Utility Bill before and after.png" class="img-responsive" alt="Utility Bill before and after" style="max-width: 35%; margin-right: 60px; display: inline-block"> 
-<img src="assets/ESA Paid-from-Savings Model.PNG" class="img-responsive" alt="ESA Paid-from-Savings Model" style="max-width: 35%; display: inline-block"> 
+<img src="assets/Utility Bill before and after.png" class="img-responsive" alt="Utility Bill before and after" style="max-width: 35%; margin-right: 60px; display: inline-block">
+<img src="assets/ESA Paid-from-Savings Model.PNG" class="img-responsive" alt="ESA Paid-from-Savings Model" style="max-width: 35%; display: inline-block">
 
 ## Why this approach may work for you
 
@@ -62,7 +62,7 @@ Your energy costs are always lower than they would be without participation!
 
 ***
 
-<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png"> 
+<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png">
 
 
 ***
@@ -85,13 +85,13 @@ Your energy costs are always lower than they would be without participation!
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
                                <figcaption>
-                                    <p>Introduction to the NY Doing More with Less ESA</p>
+                                <p>Intro to the RENEW ESA</p>
                                     <div class="view_button">View</div>
                                </figcaption>
                           </figure>
                           </a>
                           <div class="portfolio_description">
-                               <h3><a href="IntrotoESA.html">ESA Introduction</a></h3>
+                               <h3><a href="IntrotoESA.html">RENEW ESA Introduction</a></h3>
                           </div>
                      </div>
                 </div>

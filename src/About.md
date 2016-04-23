@@ -1,10 +1,12 @@
-<div class="full_page_photo" style="background-image: url(assets/hero.jpg);">
+<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
      <div class="container">
           <section class="call_to_action">
-               <!-- <h3 class="animated fadeInDown skincolored">Just possibly the coolest economic innovation in the State of New York  -->
-</h3>
+               <h3 class="animated fadeInDown skincolored">Innovation unleashed:<br>
+ Qualified, quantified energy efficiency</h3>
                <br>
-               <!-- <h4 class="animated fadeInUp"<i> since the construction of the Erie Canal!</i></h4> -->
+               <i><h4 class="animated fadeInUp">
+                   Delivered as a service
+               </h4></i>
           </section>
      </div>
 </div>
@@ -12,19 +14,18 @@
 <div class="main">
         <section>
             <div class="container">
-<img src="assets/GBDMwL Logo.png" height="100 px" alt="NYDMwL Logo"> 
+<img src="assets/GBDMwL Logo.png" height="100 px" alt="NYDMwL Logo">
 
 # About NY Doing More with Less™
 
-NY Doing More with Less is a joint venture between Green Bank Partners, RENEW Energy Partners and Sustainable Real Estate Solutions, with essential support from the NY Green Bank and RIT’s Golisano Institute for Sustainability.
-
+NY Doing More with Less is a joint venture between Green Bank Partners, RENEW Energy Partners and Sustainable Real Estate Solutions, with essential support from the NY Green Bank and an independent role played by RIT’s Golisano Institute for Sustainability.
 
 Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (E-Firms) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
 
 Working in partnership with E-Firms, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 ***
-<!-- 
-<img src="assets/Advanced Energy Capital logo.png" height="100 px" alt="advanced energy capital logo"> 
+<!--
+<img src="assets/Advanced Energy Capital logo.png" height="100 px" alt="advanced energy capital logo">
 
 Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing affordable and innovative financing solutions to the Renewable Energy, Energy Storage and Energy Efficiency industries, as well as the Retail Energy Provider industry. AEC’s investments include capital placement geared towards platform and development companies as well as project finance.
 <h4>
@@ -34,11 +35,12 @@ Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing
 
 
 </h4>
+-->
 
+<h2 class="section_header fancy centered">Press </h2>
 
 ***
- -->
- <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo"> 
+ <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo">
 
 
 ## Green Bank Partners
@@ -52,7 +54,7 @@ Green Bank Partners brings experience advancing energy efficiency tied to perfor
 </h4>
 
 ***
-<img src="assets/NY Green Bank Logo.png" height="80 px" alt="NYGreen Bank Logo"> 
+<!-- <img src="assets/NY Green Bank Logo.png" height="80 px" alt="NYGreen Bank Logo"> -->
 
 
 ## NY Green Bank
@@ -70,7 +72,7 @@ NY Green Bank is a state-sponsored, specialized financial entity working in part
 
 ***
 
-<img src="assets/RENEW Logo.jpg" height="80 px" alt="RENEW Logo"> 
+<img src="assets/RENEW Logo.jpg" height="80 px" alt="RENEW Logo">
 
 
 ## RENEW Energy Partners LLC
@@ -85,9 +87,9 @@ RENEW Energy Partners offers energy efficiency project development and energy fi
 
 </h4>
 
-***
+<!-- *** -->
 <!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
-<img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo"> 
+<!-- <img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo">
 
 ## Rochester Institute of Technology's Golisano Institute for Sustainability
 Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit of the Rochester Institute of Technology with the following mission: to undertake world-class education and research missions in sustainability. GIS brings to our partnership world-class authority and an intangible element of trust, invaluable as the NY Doing More with Less enterprise takes on the behavioral challenges confronting efforts to transform the marketplace. GIS academic and research programs focus on sustainable production, sustainable energy, sustainable mobility, and ecologically friendly information technology systems.
@@ -96,11 +98,11 @@ Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit
 
 [www.rit.edu/gis/](http://www.rit.edu/gis/)
 
-</h4>
+</h4> -->
 
 ***
 <!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
-<img src="assets/Logo_SRS_Dec10.jpg" height="80 px" alt="SRS Logo"> 
+<img src="assets/Logo_SRS_Dec10.jpg" height="80 px" alt="SRS Logo">
 
 ## Sustainable Real Estate Solutions, Inc. (SRS)
 
@@ -128,7 +130,7 @@ Sustainable Real Estate Solutions (SRS) provides industry best practice methodol
                               <small>Managing Director / Founder<br>NY Doing More with Less™</small>
                               <hr>
                               <p class="short_bio">
-Jim is the Founder and Managing Director of the NY Doing More with Less Program and the point of contact for all inquires.  
+Jim is the Founder and Managing Director of the NY Doing More with Less Program and the point of contact for all inquires.
 
 <br>
 
@@ -192,5 +194,5 @@ He holds a BS in mechanical engineering from Northeastern University and an MBA 
                          </div>
                     </div> -->
                </div>
-          </div>     
+          </div>
      </section>
