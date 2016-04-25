@@ -25,7 +25,7 @@
 <div class="col-sm-5">
 <ul>
 <li> Partner with us and become a NY Doing More with Less E-Firm</li>
-<li> Leverage a market-transformational, turnkey-contracting approach: Energy Efficiency as a Service (EEaaS™)</li>
+<li> Leverage a market-transformational, turnkey-contracting approach</li>
 <li> Align your customers' best interests with yours</li>
 <li> Increase customer trust and satisfaction</li>
 </ul>
@@ -33,7 +33,7 @@
 <div class="col-sm-5">
 <ul>
 <li> Leverage innovative funding</li>
-<li> Deliver energy efficiency as a service</li>
+<li> Deliver energy efficiency as a service (EEaaS™)</li>
 <li> Benefit from trusted third-party support</li>
 <li> Grow your business and profitability</li>
 <li> Do more with less</li>
@@ -74,11 +74,11 @@ The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding
 
 <h2> Trusted Third Parties </h2>
 <ul>
-<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank, Sustainable Real Estate Solutions and RIT's Golisano Institute for Sustainability (GIS)</li><br>
-<li>Sustainable Real Estate Solutions is providing industry-best- practice methodology and tools for standardized qualification, quantification and trusted measurement of energy efficiency measures. </li><br>
+<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank, Sustainable Real Estate Solutions (SRS) and RIT's Golisano Institute for Sustainability (GIS)</li><br>
+<li> SRS is providing industry-best-practice methodology and tools for standardized qualification, quantification and trusted measurement of energy efficiency measures. </li><br>
 <li> GIS is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li><br>
 <li> In a manner beneficial to all value chain participants, expected and actual MWh and MMBTtu savings, greenhouse gas impacts, and various financial and other performance metrics are independently assessed and tracked by trusted experts </li><br>
-<li> Energy Service Providers benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li><br>
+<li> E-Firms benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li><br>
 </ul>
 </div>
 <div class="col-sm-4">

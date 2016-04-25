@@ -17,9 +17,9 @@ Minimize your energy costs while maximizing building performance </i>
 
 
 
-## The NY Doing More with Less Energy Service Agreement (ESA)
+## The NY Doing More with Less RENEW* Energy Service Agreement (ESA)
 
-The NY Doing More with Less ESA approach is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
+The NY Doing More with Less RENEW ESA approach is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
 
 Work with a NY Doing More with Less Design-Build Firm/Energy Service Provider (E-Firm) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 
@@ -29,7 +29,7 @@ Benefit from a substantially lower utility bill -- *doing more with less!*
 
 Working with a partnering E-Firm of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your E-Firm’s best interests with yours, encouraging the use of superior technologies and best practices in building performance.
 
-Under a NY Doing More with Less ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
+Under a NY Doing More with Less RENEW ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
 
 Your energy costs are always lower than they would be without participation!
 

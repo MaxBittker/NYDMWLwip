@@ -2,9 +2,9 @@
      <div class="container">
           <section class="call_to_action">
 
-               <h3 class="animated fadeInDown skincolored">
+               <i><h4 class="animated fadeInDown skincolored">
                “When you can measure what you are speaking about,<br>and express it in numbers, you know something about it.
-               </h3>
+               </h4></i>
                <br>
                <h4 class="animated fadeInUp"><i>
                -- Lord Kelvin
@@ -57,9 +57,9 @@
 <h2> Toward a Clean Energy Economy </h2>
 <p>
 Human-caused climate change risks pushing our climate system toward abrupt, unpredictable, and
-potentially irreversible changes with highly costly and dangerous impacts.
+potentially irreversible changes with highly costly and dangerous impacts.</p><p>
 By making informed choices now, leveraging innovation and market forces consistent with the Bottom
-Line, organizations can lower costs and reduce risks for future generations – and ourselves.
+Line, organizations can lower costs and reduce risks for future generations – and ourselves.</p><p>
 We can take the first steps toward a clean energy future.
 <p>
 

@@ -7,29 +7,29 @@
 
 
 # NY Doing More with Less™ (RENEW*)Typical Project Profile
-## NY Doing More with Less projects can include a broad range of energy efficiency and clean energy infrastructure measures: 
+## NY Doing More with Less projects can include a broad range of energy efficiency and clean energy infrastructure measures:
 * Lighting Upgrades
 * Heating, Ventilation and Air Conditioning
 * Boilers and Domestic Hot Water Heating
-* Controls and Automation 
-* Electrical Systems 
+* Controls and Automation
+* Electrical Systems
 * On-site Clean Energy (e.g. Combined Heat and Power; Geothermal)
 * Pumps, Fans, Motors, Transformers and Drives
-* Energy Storage Systems 
+* Energy Storage Systems
 
-### NY Doing More with Less ESA structure accommodates the implementation of a number of measures in one project, with longer payback measures and shorter payback measures blended to create a project that maximizes capital upgrades and savings to the building owner.
- 
-## NY Doing More with Less works with E-Firms and their clients in a range of sectors: 
+### The NY Doing More with Less RENEW ESA structure accommodates the implementation of a number of measures in one project, with longer payback measures and shorter payback measures blended to create a project that maximizes capital upgrades and savings to the building owner.
+
+## NY Doing More with Less works with E-Firms and their clients in a range of sectors:
 * Commercial, Industrial and Institutional
 * Hospitality and Resorts
 * Healthcare and Hospitals
 * Multi-family and condominiums
 * School and Universities
 * Industrial and Warehouse
-* Senior and Assisted Living 
-* Private or Non-Profit 
+* Senior and Assisted Living
+* Private or Non-Profit
 
-## A typical NY Doing More with Less project could be characterized as follows: 
+## A typical NY Doing More with Less project could be characterized as follows:
 * A facility located within the borders of New York State
 * A building typically 35,000 sq. ft. and above
 * Has total installation costs of between $200,000 and $5M

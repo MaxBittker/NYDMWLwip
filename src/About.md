@@ -1,8 +1,8 @@
 <div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
      <div class="container">
           <section class="call_to_action">
-               <h3 class="animated fadeInDown skincolored">Innovation unleashed:<br>
- Qualified, quantified energy efficiency</h3>
+               <i><h3 class="animated fadeInDown skincolored">Innovation unleashed:<br>
+ Qualified, quantified energy efficiency</h3></i>
                <br>
                <i><h4 class="animated fadeInUp">
                    Delivered as a service
@@ -39,7 +39,7 @@ Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing
 
 <h2 class="section_header fancy centered">Press </h2>
 
-***
+<!-- *** -->
  <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo">
 
 
@@ -138,7 +138,7 @@ Prior to founding NY Doing More with Less, Jim was an Outreach Specialist for NY
 
 <br>
 
-An experienced entrepreneur, Jim founded PubWeb and served as the first marketing, sales, and business development executive at iUniverse, an innovative company that in 2012 was acquired by Pearson for $116 million. Jim also worked as an editor at McGraw-Hill Publishing Company, where economics Nobel-prize-winning author Paul Samuelson was among his authors.  Jim also worked with Samuelson's economics 101 textbook co-author, William Nordhaus, today's leading scholar on the economics of climate change.</p>
+An experienced entrepreneur, Jim founded PubWeb and served as the first marketing, sales, and business development executive at iUniverse, an innovative company that in 2012 was acquired by Pearson for $116 million. Jim also worked as an editor at McGraw-Hill Publishing Company, where economics Nobel-prize-winning author Paul Samuelson was among his authors. William Nordhaus, Samuelson's co-author on their classic ECON 101 textbook, is today's leading scholar on the economics of climate change.</p>
                          </div>
                     </div>
                     <div class="col-sm-6 col-md-4">
