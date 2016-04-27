@@ -43,9 +43,9 @@
 
 
 
-## NY Doing More with Less Energy Service Agreements (ESAs)
+## NY Doing More with Less RENEW* Energy Service Agreements (ESAs)
 
-The NY Doing More with Less ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.
+The NY Doing More with Less RENEW ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.
 ***
 
 <img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png">
