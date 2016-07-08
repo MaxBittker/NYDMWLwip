@@ -3,9 +3,9 @@
             <div class="container">
 
 
-<!-- # NY Doing More with Less ESA Deal Structure -->
+<!-- # RENEW It *Now* NY� ESA Deal Structure -->
 
-<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="NYDMwL Deal Structure FULL Diagram"> 
+<img src="assets/RENEW It Now ESA Deal Structure.PNG" class="img-responsive center-block" alt="RENEW It *Now* NY Deal Structure"> 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">
   <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>
  <h4>Go Back</h4>

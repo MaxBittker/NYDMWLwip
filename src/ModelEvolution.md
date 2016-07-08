@@ -1,4 +1,4 @@
-<div class="main">
+﻿<div class="main">
         <section>
             <div class="container">
 
@@ -6,10 +6,10 @@
 
 
 <br>
-# NY Doing More with Less™ : A 21st Century Solution
+# RENEW It *Now* NY: A 21st Century Solution
 
 
-<img src="assets/NYDMwL Model Evolution.png" class="img-responsive center-block" alt="NYDMwL Model Evolution" style="min-width: 70%;"> 
+<img src="assets/Evolution of Design-Build Contracting.png" class="img-responsive center-block" alt="Evolution of Design-Build Contracting" style="min-width: 70%;"> 
 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">

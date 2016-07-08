@@ -1,14 +1,14 @@
-<div class="main">
+﻿<div class="main">
         <section>
             <div class="container">
 
 
-# Introduction to the NY Doing More with Less™ RENEW* Energy Services Agreement (ESA)
+# Introduction to the RENEW It *Now* NY Energy Services Agreement (ESA)
 
 The RENEW ESA is a full-service, turnkey solution that enables building owners to implement facility energy efficiency retrofits and clean energy improvements without the need for upfront capital, and without adding debt to the balance sheet.
 
 ## Under the RENEW ESA:
-- RENEW* pays all design and construction costs
+- RENEW pays all design and construction costs
 - RENEW structures each project so that the energy services payments (“ESA payments”) are less than the energy savings: the owner sees positive net cash flow from Day One
 - As with a typical utility bill, ESA payments are made for measured quantities of energy units, only in this case the energy units are measured quantities of energy units that are saved – i.e., “Negawatts”
 - Each project will include energy information systems and reporting tools that enable the building owner to better manage energy consumption
@@ -25,11 +25,6 @@ The RENEW ESA is a full-service, turnkey solution that enables building owners t
 
 <br>
 
-<i>
-
-*RENEW Energy Partners LLC is the engineering, financing and contractual partner to all participants in the NY Doing More with Less Program.
-
-</i>
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">
   <span class="glyphicon glyphicon-arrow-left" aria-hidden="true"></span>

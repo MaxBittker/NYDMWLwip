@@ -3,11 +3,11 @@
             <div class="container">
 
 
-<!-- # NY Doing More with Less(TM) Typical Process -->
+<!-- # RENEW It *Now* NY Typical Process -->
 <br>
 <br>
 
-<img src="assets/NYDMwL ESA Typical Process.png" class="img-responsive center-block" alt="NYDMwL ESA Typical Process"> 
+<img src="assets/Typical Process Diagram.png" class="img-responsive center-block" alt="Typical Process Diagram"> 
 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">

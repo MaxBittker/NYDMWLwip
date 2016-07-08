@@ -1,4 +1,4 @@
-<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
+﻿<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
      <div class="container">
           <section class="call_to_action">
                <h3 class="animated fadeInDown skincolored"><i> “Markets move more quickly.  Markets bring more innovation.” </i>
@@ -24,7 +24,7 @@
 <div class="col-sm-2"></div>
 <div class="col-sm-5">
 <ul>
-<li> Partner with us and become a NY Doing More with Less E-Firm</li>
+<li> Partner with us and become a RENEW It *Now* NY E-Firm</li>
 <li> Leverage a market-transformational, turnkey-contracting approach</li>
 <li> Align your customers' best interests with yours</li>
 <li> Increase customer trust and satisfaction</li>
@@ -36,37 +36,54 @@
 <li> Deliver energy efficiency as a service (EEaaS™)</li>
 <li> Benefit from trusted third-party support</li>
 <li> Grow your business and profitability</li>
-<li> Do more with less</li>
+<li> *Do more with less*</li>
 </ul>
 </div>
 </div>
 
+***
+## Lower Energy Bills and Lower Carbon Emissions *Now*
 
+<img src="assets/CO2 Emissions Costs Flow.png" class="img-responsive center-block" alt="CO2 Emissions Costs Flow.png" style="width: 80%">
 
-## NY Doing More with Less RENEW* Energy Service Agreements (ESAs)
-
-The NY Doing More with Less RENEW ESA is an innovative NY Green Bank-supported funding mechanism/deal structure that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.
 ***
 
-<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png">
+## RENEW It *Now* NY Energy Service Agreements (ESAs)
+
+The RENEW It *Now* NY ESA is an innovative NY Green Bank-supported funding and implementation package that enables our E-Firm partners to provide their customers with a turnkey energy system retrofit solution in their facilities with no upfront capital outlay, an immediate reduction in annual operating costs, all necessary warranty and maintenance covered, and the opportunity for off-balance sheet treatment of service payments.
+<ul>
+<li> RENEW 100% funds and owns retrofits
+
+<li> RENEW and our E-Firm Partners design, procure and construct the retrofit
+
+<li> RENEW and our E-Firm Partners provide warranty and maintenance support over the term of the ESA
+
+<li> Energy savings are confirmed via a measurement and verification program
+
+<li> The Customer pays for energy saved by the retrofit through a service charge
+
+<li> Service charges can be treated like a utility payment (off-balance sheet)
+
+<li> Customer has net positive cash flow on day one from remaining energy savings
+</ul>
+
 
 ***
+
 
 <div class="row">
 <div class="col-sm-4">
 
 <h2> The Deal Structure </h2>
 <ul>
-<li> An **ESA** between the Customer and RENEW<sup>(1)</sup> -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>(2)</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved or Energy Savings Unit (ESU), a rate *less* than the Customer has been paying for energy </li><br>
+<li> An **ESA** between the Customer and RENEW -- creates a Customer payment obligation per unit of energy savings (“Negawatts”<sup>&#42;</sup>) delivered to the Customer via the provision of assets that are owned by RENEW; the ESA sets a fixed rate for each unit of energy saved or Energy Savings Unit (ESU), a rate *less* than the Customer has been paying for energy </li><br>
 <li> An Engineering, Procurement and Construction **(EPC)** Contract between E-Firm and RENEW -- defines the systems and performance of the systems to be installed in order to generate the energy savings for the ESA; capital funding of the EPC Contract is provided by RENEW </li><br>
 <li> An Operations & Maintenance **(O&M)** Contract between O&M Partner and RENEW -- provides periodic maintenance of RENEW's owned assets over the term of the ESA </li><br>
 <li> At the end of the first year, the EPC partner (also known as E-Firm Partner) provides a report based on the actual performance of the project (using agreed-upon industry standard protocols) and the volume of ESUs is adjusted according to actual project performance</li><br>
 </ul>
 
 <small>
-(1) *RENEW Energy Partners LLC is the engineering, financing, and contractual partner to all participants in the NY Doing More with Less Program.*
-<br>
-(2) *Amory Lovins coined the term "Negawatt" to refer to a theoretical unit of energy saved through increased energy efficiency.*
+&#42; *Amory Lovins coined the term "Negawatt" to refer to a theoretical unit of energy saved through increased energy efficiency.*
 </small>
 
 </div>
@@ -74,9 +91,9 @@ The NY Doing More with Less RENEW ESA is an innovative NY Green Bank-supported f
 
 <h2> Trusted Third Parties </h2>
 <ul>
-<li> NY Doing More with Less participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles played by the NY Green Bank, Sustainable Real Estate Solutions (SRS) and RIT's Golisano Institute for Sustainability (GIS)</li><br>
-<li> SRS is providing industry-best-practice methodology and tools for standardized qualification, quantification and trusted measurement of energy efficiency measures. </li><br>
-<li> GIS is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li><br>
+<li> RENEW It *Now* NY participants benefit from unprecedented levels of contracting service transparency and the trusted third-party roles. </li><br>
+<li> Sustainable Real Estate Solutions (SRS) is providing industry-best-practice methodology and tools for standardized qualification, quantification and trusted measurement of energy efficiency measures. </li><br>
+<li> RIT's Golisano Institute for Sustainability (GIS) is assisting with the participation methodology which involves beneficial pre- and post-project assessments, independent tracking, recording, monitoring, and reporting on energy impacts associated with each project</li><br>
 <li> In a manner beneficial to all value chain participants, expected and actual MWh and MMBTtu savings, greenhouse gas impacts, and various financial and other performance metrics are independently assessed and tracked by trusted experts </li><br>
 <li> E-Firms benefit from Customer project participation surveys and invaluable back-end data to support front-end marketing: actionable intelligence focused on “what works”</li><br>
 </ul>
@@ -131,7 +148,7 @@ The NY Doing More with Less RENEW ESA is an innovative NY Green Bank-supported f
                                     <path d="M 180,0 0,0 0,0 180,0 z"/>
                                </svg>
                                <figcaption>
-                                    <p>Diagram of the NY Doing More with Less deal structure</p>
+                                    <p>Diagram of the RENEW It *Now* NY Deal Structure</p>
                                     <div class="view_button">View</div>
                                </figcaption>
                           </figure>

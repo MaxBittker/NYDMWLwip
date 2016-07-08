@@ -1,4 +1,4 @@
-<div class="full_page_photo" style="background-image: url(assets/hero.jpg);">
+﻿<div class="full_page_photo" style="background-image: url(assets/hero.jpg);">
      <div class="container">
           <section class="call_to_action">
 
@@ -23,15 +23,15 @@
 
 <h1> Contact us </h1>
 
-<p>Have a question about any aspect of the NY Doing More with Less program?  Please be sure to let us know.</p>
+<p>Have a question about any aspect of the RENEW It *Now* NY Program?  Please be sure to let us know.</p>
 
 <h2> Jim Bittker </h2>
 
-<h3> Managing Director </h3>
+<h3> Program Director </h3>
 
 
 
-<h4> NY Doing More with Less<sup>TM</sup> </h4>
+<h4> RENEW It *Now* NY<sup>TM</sup> </h4>
 
 
 
@@ -40,13 +40,7 @@
 <h4> E: jim.bittker@gmail.com </h4>
 
 
-<img src="assets/GBDMwL Logo.png" height="100 px" alt="NYDMwL Logo">
-
-
-
-<h4> 37 Scarborough Park </h4>
-
-<h4> Rochester, NY 14625 </h4>
+<img src="assets/RENEW It Now NY Logo.png" height="100 px" alt="RENEW It Now NY Logo">
 
 
 

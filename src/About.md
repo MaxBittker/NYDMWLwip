@@ -1,4 +1,4 @@
-<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
+﻿<div class="full_page_photo" style="background-image: url(assets/hero2.jpg);">
      <div class="container">
           <section class="call_to_action">
                <i><h3 class="animated fadeInDown skincolored">Innovation unleashed:<br>
@@ -14,38 +14,28 @@
 <div class="main">
         <section>
             <div class="container">
-<img src="assets/GBDMwL Logo.png" height="100 px" alt="NYDMwL Logo">
+<img src="assets/RENEW It Now NY Logo.png" height="100 px" alt="RENEW It Now NY Logo">
 
-# About NY Doing More with Less™
+# About RENEW It *Now* NY™
 
-NY Doing More with Less is a joint venture between Green Bank Partners, RENEW Energy Partners and Sustainable Real Estate Solutions, with essential support from the NY Green Bank and an independent role played by RIT’s Golisano Institute for Sustainability.
+RENEW It *Now* NY™ was launched by RENEW Energy Partners LLC and Green Bank Partners™ with essential support from the NY Green Bank. Together we are on a mission to reduce energy use and battle climate change by making energy efficiency easy and immediate.
 
-Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, our enterprise primarily works with Design-Build firms/Energy Service Providers (E-Firms) to help them leverage our innovative deal structure and funding platform to better serve and grow the marketplace with a turnkey energy-efficiency-as-a-service contracting approach.
+Focused on building a more innovative business ecosystem for energy efficiency throughout New York State, we work with Design-Build firms/Energy Service Providers (E-Firms) providing a turnkey funding and implementation package that enables customers to move forward with more energy efficiency projects, without using their own capital.
 
-Working in partnership with E-Firms, we help business owners and managers to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
-***
-<!--
-<img src="assets/Advanced Energy Capital logo.png" height="100 px" alt="advanced energy capital logo">
-
-Advanced Energy Capital (AEC) is a specialty finance firm dedicated to providing affordable and innovative financing solutions to the Renewable Energy, Energy Storage and Energy Efficiency industries, as well as the Retail Energy Provider industry. AEC’s investments include capital placement geared towards platform and development companies as well as project finance.
-<h4>
-
-
-[www.advancedenergycap.com/](http://www.advancedenergycap.com/)
+Together we help participants in the marketplace to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate net positive cash flow from day one of a building upgrade or energy infrastructure project.
 
 
 </h4>
--->
-
-<h2 class="section_header fancy centered">Press </h2>
-
-<!-- *** -->
- <img src="assets/GBP Logo.png" height="80 px" alt="GBP Logo">
 
 
-## Green Bank Partners
-Green Bank Partners brings experience advancing energy efficiency tied to performance-based savings, cost-effective lighting and HVAC retrofits with a measurable ROI and definable payback periods. Green Bank Partners leads the market outreach and business development functions for NY Doing More with Less and is both the operational liaison with the NY Green Bank and RIT’s GIS, as well as the point of contact for all inquiries to the NY Doing More with Less partnering team.
+***
 
+
+ <img src="assets/Green Bank Partners Logo.png" height="80 px" alt="Green Bank Partners Logo">
+
+
+## Green Bank Partners™
+Green Bank Partners™ specializes in advancing energy efficiency and clean energy solutions through innovative partnerships and to-to-market strategies, helping to address and alleviate specific gaps and barriers in current clean energy markets and the energy-service-provider value chain.
 
 <h4>
 
@@ -54,14 +44,11 @@ Green Bank Partners brings experience advancing energy efficiency tied to perfor
 </h4>
 
 ***
-<!-- <img src="assets/NY Green Bank Logo.png" height="80 px" alt="NYGreen Bank Logo"> -->
+<img src="assets/NY Green Bank Logo.png" height="80 px" alt="NY Green Bank Logo">
 
 
 ## NY Green Bank
-NY Green Bank is a state-sponsored, specialized financial entity working in partnership with the private sector to increase investments into New York’s clean energy markets, creating a more efficient, reliable and sustainable energy system. In adopting a targeted approach to clean energy financing markets, NY Green Bank represents an innovative business model at the forefront of the trend driving institutions nationally and internationally. NY Green Bank increases the availability of capital for projects deploying proven clean energy technologies across New York State through:
-- Leveraging private sector capital to support and expand clean energy financing markets;
-- Animating and growing capital markets reducing the need for government support; and
-- Motivating faster and more extensive deployment of clean energy assets, contributing to economic development, greater energy choices, reduced environmental impacts and more green energy advantages for every public dollar spent.
+NY Green Bank, a Division of the New York State Energy Research and Development Authority (NYSERDA), is a $1 billion state-sponsored specialized financial entity that works with the private sector to identify, address, and alleviate market barriers preventing the widespread deployment of clean energy across New York State. NY Green Bank uses demonstrated financing tools to promote self-sustaining markets, while enabling private sector capital providers to expand the frontiers of current commercial clean energy investment opportunities. NY Green Bank is a key component of the Clean Energy Fund (CEF), a 10-year, $5 billion commitment by New York State to advance clean energy market growth and innovation while reducing ratepayer collections and driving economic development.
 
 <h4>
 
@@ -81,42 +68,21 @@ RENEW Energy Partners offers energy efficiency project development and energy fi
 
 <h4>
 
-[www.renewenergypartners.com
-](www.renewenergypartners.com
-)
-
-</h4>
+[www.renewep.com](www.renewep.com)
 
 <!-- *** -->
 <!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
-<!-- <img src="assets/RIT_GIS.png" height="60 px" alt="RIT GIS Logo">
+<!-- <img src="assets/Logo_SRS_Dec10.jpg" height="80 px" alt="SRS Logo"> -->
 
-## Rochester Institute of Technology's Golisano Institute for Sustainability
-Golisano Institute for Sustainability (GIS) is a multidisciplinary academic unit of the Rochester Institute of Technology with the following mission: to undertake world-class education and research missions in sustainability. GIS brings to our partnership world-class authority and an intangible element of trust, invaluable as the NY Doing More with Less enterprise takes on the behavioral challenges confronting efforts to transform the marketplace. GIS academic and research programs focus on sustainable production, sustainable energy, sustainable mobility, and ecologically friendly information technology systems.
+<!-- ## Sustainable Real Estate Solutions, Inc. (SRS) -->
 
-<h4>
+<!-- Sustainable Real Estate Solutions (SRS) provides industry best practice methodology for building energy efficiency investment underwriting. SRS delivers Sustainable Real Estate Manager® a cloud-based, software-as-a-service energy finance and technical underwriting platform supporting NY Doing More with Less to underwrite energy efficiency and renewable energy projects that yield compelling investment returns. -->
 
-[www.rit.edu/gis/](http://www.rit.edu/gis/)
+<!-- <h4> -->
 
-</h4> -->
-
-***
-<!-- <img src="assets\RIT Logo.jpg" height="100 px" alt="RIT Logo">  -->
-<img src="assets/Logo_SRS_Dec10.jpg" height="80 px" alt="SRS Logo">
-
-## Sustainable Real Estate Solutions, Inc. (SRS)
-
-Sustainable Real Estate Solutions (SRS) provides industry best practice methodology for building energy efficiency investment underwriting. SRS delivers Sustainable Real Estate Manager® a cloud-based, software-as-a-service energy finance and technical underwriting platform supporting NY Doing More with Less to underwrite energy efficiency and renewable energy projects that yield compelling investment returns.
-
-<h4>
-
-[srmnetwork.com](http://srmnetwork.com)
+<!-- [srmnetwork.com](http://srmnetwork.com) -->
 
 </h4>
-
-
-
-
 
 
   <section class="team_members">
@@ -127,14 +93,15 @@ Sustainable Real Estate Solutions (SRS) provides industry best practice methodol
                          <div class="team_member">
                               <figure style="background-image: url(assets/JimBittker.png)"><img src="assets/JimBittker.png" alt="1a"></figure>
                               <h5>Jim Bittker</h5>
-                              <small>Managing Director / Founder<br>NY Doing More with Less™</small>
+                              <small>Program Director<br> RENEW It *Now* NY™</small>
                               <hr>
+
                               <p class="short_bio">
-Jim is the Founder and Managing Director of the NY Doing More with Less Program and the point of contact for all inquires.
+Jim is the Program Director of RENEW It *Now* NY™ and the point of contact for all inquires pertaining to the Program.
 
 <br>
 
-Prior to founding NY Doing More with Less, Jim was an Outreach Specialist for NYSERDA and a hands-on, energy efficiency solutions provider, working in New York State and commuting to California where he operated at the center of California's energy efficiency revolution.  Jim was a principal at TruBrite Energy Management, a company that delivered turnkey lighting retrofits to more than 10,000 commercial and industrial, governmental, and multifamily residential facilities.  Customers included Federal Express, Walgreens, Iron Mountain, Lockheed Martin, Target, Diageo, Bank of America, Transwestern, US Bank, Wells Fargo, BRE Properties, Radio Shack and GameStop, as well as numerous municipalities and more than 40 California school districts.  In recent years, Jim has provided hundreds of AIA CEU-credited NYSERDA presentations on energy efficiency to architectural, engineering, construction, and real estate professionals.
+Prior to launching RENEW It *Now* NY™, Jim founded Green Bank Partners™ and was an Outreach Specialist for NYSERDA. He has experience as a hands-on, energy efficiency solutions provider, working in New York State and commuting to California where he operated at the center of California's energy efficiency revolution.  Jim was a principal at TruBrite Energy Management, a company that delivered turnkey lighting retrofits to more than 10,000 commercial and industrial, governmental, and multifamily residential facilities.  Customers included Federal Express, Walgreens, Iron Mountain, Lockheed Martin, Target, Diageo, Bank of America, Transwestern, US Bank, Wells Fargo, BRE Properties, Radio Shack and GameStop, as well as numerous municipalities and more than 40 California school districts.  In recent years, Jim has provided hundreds of AIA CEU-credited NYSERDA presentations on energy efficiency to architectural, engineering, construction, and real estate professionals.
 
 <br>
 

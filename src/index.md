@@ -15,12 +15,19 @@
 
 <div class="text-center heroText">
 
-<h1> <b>NY</b> Doing More with Less<sup>TM<sup> </h1>
-
-<h3> <i>Building a business ecosystem for energy efficiency via an innovative funding platform supported by the NY Green Bank </i></h3>
-
-</div>
+<img src="assets/RENEW NYGB Logo.PNG" style="margin: 10px; max-width:900px; ">
+<h3> <i>Energizing the marketplace to promote rapid adoption of energy efficient
+technologies in order to drive reductions in greenhouse gas emissions </i></h3>
 <br>
+
+<ul style="margin:auto; max-width:700px;">
+<li style="text-align:left;"> A turnkey funding and implementation package that enables customers to
+    do more projects *and do them now*, without using their own capital
+
+<li style="text-align:left;"> A strategic approach that empowers customers to take immediate action
+    while preserving capital and creating net positive cash flows from day one
+</ul>
+</div>
 <br>
 
 <div class="row">
@@ -28,11 +35,10 @@
     <h2 class="text-center blackoverride"> <b>E-Firms</b> </h2>
     <a href="EnergyServiceProviders.html" class="text-center"><h3> *Learn More* </h3></a>
 
-<h4>A NY Green Bank-supported funding platform that helps
- restructure industry boundaries to the benefit of
- all participants. Better serve and grow the marketplace
- with an innovative, turnkey energy-efficiency-as-a-service
- contracting model. </h4>
+<h4>A NY Green Bank-supported platform that helps restructure
+ industry boundaries to the benefit of all participants. Better
+ serve and grow the marketplace with an innovative, turnkey
+ energy-efficiency-as-a-service contracting model (EEaaS&trade;). </h4>
 
 </div>
 
@@ -40,10 +46,10 @@
 <div class="col-sm-5">
     <h2 class="text-center blackoverride"> <b>Building Owners </b> </h2>
     <a href="BuildingOwnersandManagers.html" class="text-center"><h3> *Learn More* </h3></a>
-<h4> Better understand, *trust*, and successfully
- leverage an innovative funding mechanism/deal structure to generate
- positive cash flow from day one of a building
- upgrade or energy infrastructure project.</h4>
+<h4> Better understand, *trust*, and successfully leverage
+ an innovative funding mechanism/deal structure to generate
+ net positive cash flow from day one of a building upgrade
+ or energy infrastructure project.</h4>
 
 </div>
 </div>

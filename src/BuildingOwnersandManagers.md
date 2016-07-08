@@ -17,53 +17,75 @@ Minimize your energy costs while maximizing building performance </i>
 
 
 
-## The NY Doing More with Less RENEW* Energy Service Agreement (ESA)
+## Lower Energy Bills and Lower Carbon Emissions *Now*
 
-The NY Doing More with Less RENEW ESA approach is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
+Together, NY Green Bank and RENEW Energy Partners are on a mission to reduce energy use and battle climate change by making energy efficiency easy and immediate.
 
-Work with a NY Doing More with Less Design-Build Firm/Energy Service Provider (E-Firm) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate positive cash flow from day one of a building upgrade or energy infrastructure project.
 
-Benefit from a substantially lower utility bill -- *doing more with less!*
+## When you engage with us:
+
+- You free up your capital budget
+
+- You save money on your energy bills from the very first month
+
+- You deliver permanent carbon-emissions reductions lowering your impact on climate change
+
+- RENEW maintains the retrofits
+
+***
+
+## Lower Energy Bills and Lower Carbon Emissions *Now*
+
+<img src="assets/CO2 Emissions Costs Flow.png" class="img-responsive center-block" alt="CO2 Emissions Costs Flow.png" style="width: 80%">
+
+
+***
+
+## The RENEW It *Now* NY Energy Service Agreement (ESA)
+
+The RENEW It *Now* NY ESA is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
+
+Work with a RENEW Design-Build Firm/Energy Service Provider (E-Firm) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate net positive cash flow from day one of a building upgrade or energy infrastructure project.
+
 
 ## How it works
 
-Working with a partnering E-Firm of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your E-Firm’s best interests with yours, encouraging the use of superior technologies and best practices in building performance.
+Working with a partnering E-Firm of your choosing, we develop, finance, own, operate and maintain the energy efficiency measures in your building (or portfolio of buildings) during the term of the ESA.  Even better than how you might outsource your IT infrastructure, this approach aligns your E-Firm's best interests with yours, encouraging the use of superior technologies and best practices in building performance.
 
-Under a NY Doing More with Less RENEW ESA, you pay only for the energy saved (“Negawatts”) as a service -- either as a percentage of the utility rate or as a fixed dollar amount per unit of energy saved.  (A “Negawatt” is a theoretical unit of energy, measured in watts, saved through increased energy efficiency.)
+- RENEW 100% funds and owns retrofits
 
-Your energy costs are always lower than they would be without participation!
+- RENEW and our Partners design, procure and construct the retrofit
 
-***
+- RENEW and our Partners provide warranty and maintenance support over the term of the ESA
 
-## Pay less for greater building performance
+- Energy savings are confirmed via a measurement and verification program
 
-<img src="assets/Utility Bill before and after.png" class="img-responsive" alt="Utility Bill before and after" style="max-width: 35%; margin-right: 60px; display: inline-block">
-<img src="assets/ESA Paid-from-Savings Model.PNG" class="img-responsive" alt="ESA Paid-from-Savings Model" style="max-width: 35%; display: inline-block">
+- The Customer pays for energy saved by the retrofit through a service charge
+
+- Service charges can be treated like a utility payment (off-balance sheet)
+
+- Customer has net positive cash flow on day one from remaining energy savings
+
 
 ## Why this approach may work for you
 
-- Your opportunity to leverage innovation in technology, financing, and energy-service contracting – paying only for actual savings realized
+- Your opportunity to leverage innovation in technology, financing and energy-service contracting -- paying only for actual savings realized
 
 - Better building performance; lower cost; lower risk
 
-- Benefit immediately from superior energy efficient technologies: lighting, HVAC, controls, energy storage systems, etc.   
+- Benefit immediately from superior energy efficient technologies: lighting, HVAC, smart controls, energy storage systems, etc.   
 
-- We retrofit/install your energy system and take care of it for the entire length of our agreement
+- We retrofit/install your energy system and take care of it for the entire length of our agreement, typically six to ten years
 
 - Your best interests are aligned with your turnkey energy service provider
 
-- Ongoing building performance optimization, maintenance, and repair
+- Ongoing building performance optimization, maintenance and repair
 
 - Trusted, industry-best-practice methodology for building energy efficiency measurement and verification
 
-- Trusted third-party involvement by the NY Green Bank and Rochester Institute of Technology’s Golisano Institute of Sustainability
+- Trusted third-party involvement by the NY Green Bank and Rochester Institute of Technology's Golisano Institute of Sustainability
 
-- Benefit from outsourcing your energy system/infrastructure – a smarter, systematic, and more comprehensive approach to maximizing real estate value
-
-***
-
-<img src="assets/NYDMwL Deal Structure FULL Diagram.png" class="img-responsive center-block" alt="ESA Deal Structure Diagram.png">
-
+- Benefit from outsourcing your energy system/infrastructure -- a smart, systematic and comprehensive approach to maximizing real estate value
 
 ***
 

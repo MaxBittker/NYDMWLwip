@@ -1,22 +1,22 @@
-<div class="main">
+﻿<div class="main">
         <section>
             <div class="container">
 
 
 ## Meet our Team...
-Let us help you and your clients do more with less!
+
 ***
 
 image: ![JimBittker]
 ## Jim Bittker
-Managing Director / Founder
-NY Doing More with Less™
+Program Director
+RENEW It *Now* NY™
 
 Full bio...
 
-Jim is the Founder and Managing Director of the NY Doing More with Less Program and the point of contact for all inquires.  
+Jim is the Founder and Managing Director of the RENEW It *Now* NY Program and the point of contact for all inquires.  
 
-Prior to founding NY Doing More with Less, Jim was an Outreach Specialist for NYSERDA and a hands-on, energy efficiency solutions provider, working in New York State and commuting to California where he operated at the center of California's energy efficiency revolution.  Jim was a principal at TruBrite Energy Management, a company that delivered turnkey lighting retrofits to more than 10,000 commercial and industrial, governmental, and multifamily residential facilities.  Customers included Federal Express, Walgreens, Iron Mountain, Lockheed Martin, Target, Diageo, Bank of America, Transwestern, US Bank, Wells Fargo, BRE Properties, Radio Shack and GameStop, as well as numerous municipalities and more than 40 California school districts.  In recent years, Jim has provided hundreds of AIA CEU-credited NYSERDA presentations on energy efficiency to architectural, engineering, construction, and real estate professionals.
+Prior to RENEW It *Now* NY, Jim was an Outreach Specialist for NYSERDA and a hands-on, energy efficiency solutions provider, working in New York State and commuting to California where he operated at the center of California's energy efficiency revolution.  Jim was a principal at TruBrite Energy Management, a company that delivered turnkey lighting retrofits to more than 10,000 commercial and industrial, governmental, and multifamily residential facilities.  Customers included Federal Express, Walgreens, Iron Mountain, Lockheed Martin, Target, Diageo, Bank of America, Transwestern, US Bank, Wells Fargo, BRE Properties, Radio Shack and GameStop, as well as numerous municipalities and more than 40 California school districts.  In recent years, Jim has provided hundreds of AIA CEU-credited NYSERDA presentations on energy efficiency to architectural, engineering, construction, and real estate professionals.
 
 An experienced entrepreneur, Jim founded PubWeb and served as the first marketing, sales, and business development executive at iUniverse, an innovative company that in 2012 was acquired by Pearson for $116 million. Jim also worked as an editor at McGraw-Hill Publishing Company, where economics Nobel-prize-winning author Paul Samuelson was among his authors.  Jim also worked with Samuelson's economics 101 textbook co-author, William Nordhaus, today's leading scholar on the economics of climate change.
 
