@@ -14,7 +14,7 @@
 <div class="main">
         <section>
             <div class="container">
-<img src="assets/RENEW It Now NY Logo.png" height="100 px" alt="RENEW It Now NY Logo">
+<img src="assets/RENEW It Now NY Logo.PNG" height="100 px" alt="RENEW It Now NY Logo">
 
 # About RENEW It *Now* NY™
 
@@ -31,7 +31,7 @@ Together we help participants in the marketplace to better understand, *trust*, 
 ***
 
 
- <img src="assets/Green Bank Partners Logo.png" height="80 px" alt="Green Bank Partners Logo">
+ <img src="assets/Green Bank Partners Logo.PNG" height="80 px" alt="Green Bank Partners Logo">
 
 
 ## Green Bank Partners™

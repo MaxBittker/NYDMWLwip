@@ -44,7 +44,7 @@
 ***
 ## Lower Energy Bills and Lower Carbon Emissions *Now*
 
-<img src="assets/CO2 Emissions Costs Flow.png" class="img-responsive center-block" alt="CO2 Emissions Costs Flow.png" style="width: 80%">
+<img src="assets/CO2 Emissions Costs Flow.PNG" class="img-responsive center-block" alt="CO2 Emissions Costs Flow.png" style="width: 80%">
 
 ***
 

@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img src="assets/Typical Process Diagram.png" class="img-responsive center-block" alt="Typical Process Diagram"> 
+<img src="assets/Typical Process Diagram.PNG" class="img-responsive center-block" alt="Typical Process Diagram"> 
 
 
 <button onclick="goBack()" type="button" class="btn btn-default" aria-label="Go Back">
