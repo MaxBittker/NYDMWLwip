@@ -35,7 +35,7 @@ Together we help participants in the marketplace to better understand, *trust*, 
 
 
 ## Green Bank Partners™
-Green Bank Partners™ specializes in advancing energy efficiency and clean energy solutions through innovative partnerships and to-to-market strategies, helping to address and alleviate specific gaps and barriers in current clean energy markets and the energy-service-provider value chain.
+Green Bank Partners™ specializes in advancing energy efficiency and clean energy solutions through innovative partnerships and go-to-market strategies, helping to address and alleviate specific gaps and barriers in current clean energy markets and the energy-service-provider value chain.
 
 <h4>
 
