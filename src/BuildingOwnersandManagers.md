@@ -45,7 +45,7 @@ Together, NY Green Bank and RENEW Energy Partners are on a mission to reduce ene
 
 The RENEW It *Now* NY ESA is revolutionizing the way building owners upgrade their facilities, making it easier than ever before to benefit from both lower energy costs and superior building performance.
 
-Work with a RENEW Design-Build Firm/Energy Service Provider (E-Firm) to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate net positive cash flow from day one of a building upgrade or energy infrastructure project.
+Work with a RENEW Design-Build Firm/Energy Service Provider (E-Firm) of your choosing to better understand, *trust*, and successfully leverage energy efficient technologies, project management, and innovative financing to generate net positive cash flow from day one of a building upgrade or energy infrastructure project.
 
 
 ## How it works
